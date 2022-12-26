@@ -1,20 +1,14 @@
 import { Text, Title } from '@mantine/core';
 import { useState } from 'react';
 
-// import { PokemonForm } from '~/components/form/PokemonForm';
 import { Link } from '~/components/Link';
 import { Layout } from '~/components/meta/Layout';
+import { PkmnForm } from '~/components/PkmnForm';
 
 type BreedingChain = unknown[];
 
 const Home: React.FC = () => {
   const [chain, setChain] = useState<BreedingChain | null>(null);
-
-  const onSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    // eslint-disable-next-line no-console
-    console.log('submit');
-  };
 
   return (
     <Layout>
@@ -33,7 +27,7 @@ const Home: React.FC = () => {
         </Link>{' '}
         for more info.
       </Text>
-      {/* <PokemonForm onSubmit={onSubmit} /> */}
+      <PkmnForm />
     </Layout>
   );
 };
