@@ -583,5 +583,8328 @@
                 "water 1"
             ]
         }
+    },
+    "water_1": {
+        "poliwag": {
+            "name": "Poliwag",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "poliwhirl": {
+            "name": "Poliwhirl",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "poliwrath": {
+            "name": "Poliwrath",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "politoed": {
+            "name": "Politoed",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "mantine": {
+            "name": "Mantine",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "clamperl": {
+            "name": "Clamperl",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "huntail": {
+            "name": "Huntail",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "gorebyss": {
+            "name": "Gorebyss",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "tympole": {
+            "name": "Tympole",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "palpitoad": {
+            "name": "Palpitoad",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "seismitoad": {
+            "name": "Seismitoad",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "froakie": {
+            "name": "Froakie",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "frogadier": {
+            "name": "Frogadier",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "greninja": {
+            "name": "Greninja",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "mareanie": {
+            "name": "Mareanie",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "toxapex": {
+            "name": "Toxapex",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "pyukumuku": {
+            "name": "Pyukumuku",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "tadbulb": {
+            "name": "Tadbulb",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "bellibolt": {
+            "name": "Bellibolt",
+            "egg_groups": [
+                "water_1"
+            ]
+        },
+        "squirtle": {
+            "name": "Squirtle",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "wartortle": {
+            "name": "Wartortle",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "blastoise": {
+            "name": "Blastoise",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "psyduck": {
+            "name": "Psyduck",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "golduck": {
+            "name": "Golduck",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "slowpoke": {
+            "name": "Slowpoke",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "slowpoke_galarian_form": {
+            "name": "Slowpoke Galarian Form",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "slowbro": {
+            "name": "Slowbro",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "slowbro_galarian_form": {
+            "name": "Slowbro Galarian Form",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "seel": {
+            "name": "Seel",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "dewgong": {
+            "name": "Dewgong",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "horsea": {
+            "name": "Horsea",
+            "egg_groups": [
+                "water_1",
+                "dragon"
+            ]
+        },
+        "seadra": {
+            "name": "Seadra",
+            "egg_groups": [
+                "water_1",
+                "dragon"
+            ]
+        },
+        "lapras": {
+            "name": "Lapras",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "omanyte": {
+            "name": "Omanyte",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "omastar": {
+            "name": "Omastar",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "kabuto": {
+            "name": "Kabuto",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "kabutops": {
+            "name": "Kabutops",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "dratini": {
+            "name": "Dratini",
+            "egg_groups": [
+                "water_1",
+                "dragon"
+            ]
+        },
+        "dragonair": {
+            "name": "Dragonair",
+            "egg_groups": [
+                "water_1",
+                "dragon"
+            ]
+        },
+        "dragonite": {
+            "name": "Dragonite",
+            "egg_groups": [
+                "water_1",
+                "dragon"
+            ]
+        },
+        "totodile": {
+            "name": "Totodile",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "croconaw": {
+            "name": "Croconaw",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "feraligatr": {
+            "name": "Feraligatr",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "marill": {
+            "name": "Marill",
+            "egg_groups": [
+                "water_1",
+                "fairy"
+            ]
+        },
+        "azumarill": {
+            "name": "Azumarill",
+            "egg_groups": [
+                "water_1",
+                "fairy"
+            ]
+        },
+        "wooper": {
+            "name": "Wooper",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "wooper_paldean_form": {
+            "name": "Wooper Paldean Form",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "quagsire": {
+            "name": "Quagsire",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "slowking": {
+            "name": "Slowking",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "slowking_galarian_form": {
+            "name": "Slowking Galarian Form",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "corsola": {
+            "name": "Corsola",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "corsola_galarian_form": {
+            "name": "Corsola Galarian Form",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "remoraid": {
+            "name": "Remoraid",
+            "egg_groups": [
+                "water_1",
+                "water 2"
+            ]
+        },
+        "octillery": {
+            "name": "Octillery",
+            "egg_groups": [
+                "water_1",
+                "water 2"
+            ]
+        },
+        "delibird": {
+            "name": "Delibird",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "kingdra": {
+            "name": "Kingdra",
+            "egg_groups": [
+                "water_1",
+                "dragon"
+            ]
+        },
+        "mudkip": {
+            "name": "Mudkip",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "marshtomp": {
+            "name": "Marshtomp",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "swampert": {
+            "name": "Swampert",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "lotad": {
+            "name": "Lotad",
+            "egg_groups": [
+                "water_1",
+                "grass"
+            ]
+        },
+        "lombre": {
+            "name": "Lombre",
+            "egg_groups": [
+                "water_1",
+                "grass"
+            ]
+        },
+        "ludicolo": {
+            "name": "Ludicolo",
+            "egg_groups": [
+                "water_1",
+                "grass"
+            ]
+        },
+        "wingull": {
+            "name": "Wingull",
+            "egg_groups": [
+                "water_1",
+                "flying"
+            ]
+        },
+        "pelipper": {
+            "name": "Pelipper",
+            "egg_groups": [
+                "water_1",
+                "flying"
+            ]
+        },
+        "surskit": {
+            "name": "Surskit",
+            "egg_groups": [
+                "water_1",
+                "bug"
+            ]
+        },
+        "masquerain": {
+            "name": "Masquerain",
+            "egg_groups": [
+                "water_1",
+                "bug"
+            ]
+        },
+        "corphish": {
+            "name": "Corphish",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "crawdaunt": {
+            "name": "Crawdaunt",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "feebas": {
+            "name": "Feebas",
+            "egg_groups": [
+                "water_1",
+                "dragon"
+            ]
+        },
+        "milotic": {
+            "name": "Milotic",
+            "egg_groups": [
+                "water_1",
+                "dragon"
+            ]
+        },
+        "spheal": {
+            "name": "Spheal",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "sealeo": {
+            "name": "Sealeo",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "walrein": {
+            "name": "Walrein",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "relicanth": {
+            "name": "Relicanth",
+            "egg_groups": [
+                "water_1",
+                "water 2"
+            ]
+        },
+        "piplup": {
+            "name": "Piplup",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "prinplup": {
+            "name": "Prinplup",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "empoleon": {
+            "name": "Empoleon",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "bidoof": {
+            "name": "Bidoof",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "bibarel": {
+            "name": "Bibarel",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "buizel": {
+            "name": "Buizel",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "floatzel": {
+            "name": "Floatzel",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "shellos": {
+            "name": "Shellos",
+            "egg_groups": [
+                "water_1",
+                "amorphous"
+            ]
+        },
+        "gastrodon": {
+            "name": "Gastrodon",
+            "egg_groups": [
+                "water_1",
+                "amorphous"
+            ]
+        },
+        "phione": {
+            "name": "Phione",
+            "egg_groups": [
+                "water_1",
+                "fairy"
+            ]
+        },
+        "manaphy": {
+            "name": "Manaphy",
+            "egg_groups": [
+                "water_1",
+                "fairy"
+            ]
+        },
+        "tirtouga": {
+            "name": "Tirtouga",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "carracosta": {
+            "name": "Carracosta",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "ducklett": {
+            "name": "Ducklett",
+            "egg_groups": [
+                "water_1",
+                "flying"
+            ]
+        },
+        "swanna": {
+            "name": "Swanna",
+            "egg_groups": [
+                "water_1",
+                "flying"
+            ]
+        },
+        "alomomola": {
+            "name": "Alomomola",
+            "egg_groups": [
+                "water_1",
+                "water 2"
+            ]
+        },
+        "stunfisk": {
+            "name": "Stunfisk",
+            "egg_groups": [
+                "water_1",
+                "amorphous"
+            ]
+        },
+        "stunfisk_galarian_form": {
+            "name": "Stunfisk Galarian Form",
+            "egg_groups": [
+                "water_1",
+                "amorphous"
+            ]
+        },
+        "inkay": {
+            "name": "Inkay",
+            "egg_groups": [
+                "water_1",
+                "water 2"
+            ]
+        },
+        "malamar": {
+            "name": "Malamar",
+            "egg_groups": [
+                "water_1",
+                "water 2"
+            ]
+        },
+        "skrelp": {
+            "name": "Skrelp",
+            "egg_groups": [
+                "water_1",
+                "dragon"
+            ]
+        },
+        "dragalge": {
+            "name": "Dragalge",
+            "egg_groups": [
+                "water_1",
+                "dragon"
+            ]
+        },
+        "clauncher": {
+            "name": "Clauncher",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "clawitzer": {
+            "name": "Clawitzer",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "popplio": {
+            "name": "Popplio",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "brionne": {
+            "name": "Brionne",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "primarina": {
+            "name": "Primarina",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "dewpider": {
+            "name": "Dewpider",
+            "egg_groups": [
+                "water_1",
+                "bug"
+            ]
+        },
+        "araquanid": {
+            "name": "Araquanid",
+            "egg_groups": [
+                "water_1",
+                "bug"
+            ]
+        },
+        "sobble": {
+            "name": "Sobble",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "drizzile": {
+            "name": "Drizzile",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "inteleon": {
+            "name": "Inteleon",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "chewtle": {
+            "name": "Chewtle",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "drednaw": {
+            "name": "Drednaw",
+            "egg_groups": [
+                "water_1",
+                "monster"
+            ]
+        },
+        "cramorant": {
+            "name": "Cramorant",
+            "egg_groups": [
+                "water_1",
+                "flying"
+            ]
+        },
+        "clobbopus": {
+            "name": "Clobbopus",
+            "egg_groups": [
+                "water_1",
+                "human_like"
+            ]
+        },
+        "grapploct": {
+            "name": "Grapploct",
+            "egg_groups": [
+                "water_1",
+                "human_like"
+            ]
+        },
+        "cursola": {
+            "name": "Cursola",
+            "egg_groups": [
+                "water_1",
+                "water 3"
+            ]
+        },
+        "pincurchin": {
+            "name": "Pincurchin",
+            "egg_groups": [
+                "water_1",
+                "amorphous"
+            ]
+        },
+        "eiscue": {
+            "name": "Eiscue",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        },
+        "quaxly": {
+            "name": "Quaxly",
+            "egg_groups": [
+                "water_1",
+                "flying"
+            ]
+        },
+        "quaxwell": {
+            "name": "Quaxwell",
+            "egg_groups": [
+                "water_1",
+                "flying"
+            ]
+        },
+        "quaquaval": {
+            "name": "Quaquaval",
+            "egg_groups": [
+                "water_1",
+                "flying"
+            ]
+        },
+        "wattrel": {
+            "name": "Wattrel",
+            "egg_groups": [
+                "water_1",
+                "flying"
+            ]
+        },
+        "kilowattrel": {
+            "name": "Kilowattrel",
+            "egg_groups": [
+                "water_1",
+                "flying"
+            ]
+        },
+        "clodsire": {
+            "name": "Clodsire",
+            "egg_groups": [
+                "water_1",
+                "field"
+            ]
+        }
+    },
+    "bug": {
+        "caterpie": {
+            "name": "Caterpie",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "metapod": {
+            "name": "Metapod",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "butterfree": {
+            "name": "Butterfree",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "weedle": {
+            "name": "Weedle",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "kakuna": {
+            "name": "Kakuna",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "beedrill": {
+            "name": "Beedrill",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "venonat": {
+            "name": "Venonat",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "venomoth": {
+            "name": "Venomoth",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "scyther": {
+            "name": "Scyther",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "pinsir": {
+            "name": "Pinsir",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "ledyba": {
+            "name": "Ledyba",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "ledian": {
+            "name": "Ledian",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "spinarak": {
+            "name": "Spinarak",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "ariados": {
+            "name": "Ariados",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "yanma": {
+            "name": "Yanma",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "pineco": {
+            "name": "Pineco",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "forretress": {
+            "name": "Forretress",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "gligar": {
+            "name": "Gligar",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "scizor": {
+            "name": "Scizor",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "shuckle": {
+            "name": "Shuckle",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "heracross": {
+            "name": "Heracross",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "wurmple": {
+            "name": "Wurmple",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "silcoon": {
+            "name": "Silcoon",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "beautifly": {
+            "name": "Beautifly",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "cascoon": {
+            "name": "Cascoon",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "dustox": {
+            "name": "Dustox",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "nincada": {
+            "name": "Nincada",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "ninjask": {
+            "name": "Ninjask",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "kricketot": {
+            "name": "Kricketot",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "kricketune": {
+            "name": "Kricketune",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "burmy": {
+            "name": "Burmy",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "wormadam_plant_cloak": {
+            "name": "Wormadam Plant Cloak",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "wormadam_sandy_cloak": {
+            "name": "Wormadam Sandy Cloak",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "wormadam_trash_cloak": {
+            "name": "Wormadam Trash Cloak",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "mothim": {
+            "name": "Mothim",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "combee": {
+            "name": "Combee",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "vespiquen": {
+            "name": "Vespiquen",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "yanmega": {
+            "name": "Yanmega",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "gliscor": {
+            "name": "Gliscor",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "sewaddle": {
+            "name": "Sewaddle",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "swadloon": {
+            "name": "Swadloon",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "leavanny": {
+            "name": "Leavanny",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "venipede": {
+            "name": "Venipede",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "whirlipede": {
+            "name": "Whirlipede",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "scolipede": {
+            "name": "Scolipede",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "karrablast": {
+            "name": "Karrablast",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "escavalier": {
+            "name": "Escavalier",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "joltik": {
+            "name": "Joltik",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "galvantula": {
+            "name": "Galvantula",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "shelmet": {
+            "name": "Shelmet",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "accelgor": {
+            "name": "Accelgor",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "durant": {
+            "name": "Durant",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "larvesta": {
+            "name": "Larvesta",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "volcarona": {
+            "name": "Volcarona",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "scatterbug": {
+            "name": "Scatterbug",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "spewpa": {
+            "name": "Spewpa",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "vivillon": {
+            "name": "Vivillon",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "grubbin": {
+            "name": "Grubbin",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "charjabug": {
+            "name": "Charjabug",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "vikavolt": {
+            "name": "Vikavolt",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "blipbug": {
+            "name": "Blipbug",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "dottler": {
+            "name": "Dottler",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "orbeetle": {
+            "name": "Orbeetle",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "sizzlipede": {
+            "name": "Sizzlipede",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "centiskorch": {
+            "name": "Centiskorch",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "snom": {
+            "name": "Snom",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "frosmoth": {
+            "name": "Frosmoth",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "kleavor": {
+            "name": "Kleavor",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "tarountula": {
+            "name": "Tarountula",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "spidops": {
+            "name": "Spidops",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "nymble": {
+            "name": "Nymble",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "lokix": {
+            "name": "Lokix",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "rellor": {
+            "name": "Rellor",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "rabsca": {
+            "name": "Rabsca",
+            "egg_groups": [
+                "bug"
+            ]
+        },
+        "paras": {
+            "name": "Paras",
+            "egg_groups": [
+                "bug",
+                "grass"
+            ]
+        },
+        "parasect": {
+            "name": "Parasect",
+            "egg_groups": [
+                "bug",
+                "grass"
+            ]
+        },
+        "surskit": {
+            "name": "Surskit",
+            "egg_groups": [
+                "bug",
+                "water 1"
+            ]
+        },
+        "masquerain": {
+            "name": "Masquerain",
+            "egg_groups": [
+                "bug",
+                "water 1"
+            ]
+        },
+        "volbeat": {
+            "name": "Volbeat",
+            "egg_groups": [
+                "bug",
+                "human_like"
+            ]
+        },
+        "illumise": {
+            "name": "Illumise",
+            "egg_groups": [
+                "bug",
+                "human_like"
+            ]
+        },
+        "trapinch": {
+            "name": "Trapinch",
+            "egg_groups": [
+                "bug",
+                "dragon"
+            ]
+        },
+        "vibrava": {
+            "name": "Vibrava",
+            "egg_groups": [
+                "bug",
+                "dragon"
+            ]
+        },
+        "flygon": {
+            "name": "Flygon",
+            "egg_groups": [
+                "bug",
+                "dragon"
+            ]
+        },
+        "skorupi": {
+            "name": "Skorupi",
+            "egg_groups": [
+                "bug",
+                "water 3"
+            ]
+        },
+        "drapion": {
+            "name": "Drapion",
+            "egg_groups": [
+                "bug",
+                "water 3"
+            ]
+        },
+        "dwebble": {
+            "name": "Dwebble",
+            "egg_groups": [
+                "bug",
+                "mineral"
+            ]
+        },
+        "crustle": {
+            "name": "Crustle",
+            "egg_groups": [
+                "bug",
+                "mineral"
+            ]
+        },
+        "cutiefly": {
+            "name": "Cutiefly",
+            "egg_groups": [
+                "bug",
+                "fairy"
+            ]
+        },
+        "ribombee": {
+            "name": "Ribombee",
+            "egg_groups": [
+                "bug",
+                "fairy"
+            ]
+        },
+        "dewpider": {
+            "name": "Dewpider",
+            "egg_groups": [
+                "bug",
+                "water 1"
+            ]
+        },
+        "araquanid": {
+            "name": "Araquanid",
+            "egg_groups": [
+                "bug",
+                "water 1"
+            ]
+        },
+        "wimpod": {
+            "name": "Wimpod",
+            "egg_groups": [
+                "bug",
+                "water 3"
+            ]
+        },
+        "golisopod": {
+            "name": "Golisopod",
+            "egg_groups": [
+                "bug",
+                "water 3"
+            ]
+        }
+    },
+    "flying": {
+        "pidgey": {
+            "name": "Pidgey",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "pidgeotto": {
+            "name": "Pidgeotto",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "pidgeot": {
+            "name": "Pidgeot",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "spearow": {
+            "name": "Spearow",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "fearow": {
+            "name": "Fearow",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "zubat": {
+            "name": "Zubat",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "golbat": {
+            "name": "Golbat",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "doduo": {
+            "name": "Doduo",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "dodrio": {
+            "name": "Dodrio",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "aerodactyl": {
+            "name": "Aerodactyl",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "hoothoot": {
+            "name": "Hoothoot",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "noctowl": {
+            "name": "Noctowl",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "crobat": {
+            "name": "Crobat",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "natu": {
+            "name": "Natu",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "xatu": {
+            "name": "Xatu",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "murkrow": {
+            "name": "Murkrow",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "skarmory": {
+            "name": "Skarmory",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "taillow": {
+            "name": "Taillow",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "swellow": {
+            "name": "Swellow",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "starly": {
+            "name": "Starly",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "staravia": {
+            "name": "Staravia",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "staraptor": {
+            "name": "Staraptor",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "honchkrow": {
+            "name": "Honchkrow",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "chatot": {
+            "name": "Chatot",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "pidove": {
+            "name": "Pidove",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "tranquill": {
+            "name": "Tranquill",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "unfezant": {
+            "name": "Unfezant",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "sigilyph": {
+            "name": "Sigilyph",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "rufflet": {
+            "name": "Rufflet",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "braviary": {
+            "name": "Braviary",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "braviary_hisuian_form": {
+            "name": "Braviary Hisuian Form",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "vullaby": {
+            "name": "Vullaby",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "mandibuzz": {
+            "name": "Mandibuzz",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "fletchling": {
+            "name": "Fletchling",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "fletchinder": {
+            "name": "Fletchinder",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "talonflame": {
+            "name": "Talonflame",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "rowlet": {
+            "name": "Rowlet",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "dartrix": {
+            "name": "Dartrix",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "decidueye": {
+            "name": "Decidueye",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "decidueye_hisuian_form": {
+            "name": "Decidueye Hisuian Form",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "pikipek": {
+            "name": "Pikipek",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "trumbeak": {
+            "name": "Trumbeak",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "toucannon": {
+            "name": "Toucannon",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "oricorio_balie_style": {
+            "name": "Oricorio Balie Style",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "oricorio_pom_pom_style": {
+            "name": "Oricorio Pom-Pom Style",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "oricorio_pa'u_style": {
+            "name": "Oricorio Pa'u Style",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "oricorio_sensu_style": {
+            "name": "Oricorio Sensu Style",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "rookidee": {
+            "name": "Rookidee",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "corvisquire": {
+            "name": "Corvisquire",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "corviknight": {
+            "name": "Corviknight",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "flittle": {
+            "name": "Flittle",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "espathra": {
+            "name": "Espathra",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "bombirdier": {
+            "name": "Bombirdier",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "squawkabilly": {
+            "name": "Squawkabilly",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "flamigo": {
+            "name": "Flamigo",
+            "egg_groups": [
+                "flying"
+            ]
+        },
+        "farfetch'd": {
+            "name": "Farfetch'd",
+            "egg_groups": [
+                "flying",
+                "field"
+            ]
+        },
+        "farfetch'd_galarian_form": {
+            "name": "Farfetch'd Galarian Form",
+            "egg_groups": [
+                "flying",
+                "field"
+            ]
+        },
+        "togetic": {
+            "name": "Togetic",
+            "egg_groups": [
+                "flying",
+                "fairy"
+            ]
+        },
+        "wingull": {
+            "name": "Wingull",
+            "egg_groups": [
+                "flying",
+                "water 1"
+            ]
+        },
+        "pelipper": {
+            "name": "Pelipper",
+            "egg_groups": [
+                "flying",
+                "water 1"
+            ]
+        },
+        "swablu": {
+            "name": "Swablu",
+            "egg_groups": [
+                "flying",
+                "dragon"
+            ]
+        },
+        "altaria": {
+            "name": "Altaria",
+            "egg_groups": [
+                "flying",
+                "dragon"
+            ]
+        },
+        "togekiss": {
+            "name": "Togekiss",
+            "egg_groups": [
+                "flying",
+                "fairy"
+            ]
+        },
+        "woobat": {
+            "name": "Woobat",
+            "egg_groups": [
+                "flying",
+                "field"
+            ]
+        },
+        "swoobat": {
+            "name": "Swoobat",
+            "egg_groups": [
+                "flying",
+                "field"
+            ]
+        },
+        "archen": {
+            "name": "Archen",
+            "egg_groups": [
+                "flying",
+                "water 3"
+            ]
+        },
+        "archeops": {
+            "name": "Archeops",
+            "egg_groups": [
+                "flying",
+                "water 3"
+            ]
+        },
+        "ducklett": {
+            "name": "Ducklett",
+            "egg_groups": [
+                "flying",
+                "water 1"
+            ]
+        },
+        "swanna": {
+            "name": "Swanna",
+            "egg_groups": [
+                "flying",
+                "water 1"
+            ]
+        },
+        "hawlucha": {
+            "name": "Hawlucha",
+            "egg_groups": [
+                "flying",
+                "human_like"
+            ]
+        },
+        "noibat": {
+            "name": "Noibat",
+            "egg_groups": [
+                "flying",
+                "dragon"
+            ]
+        },
+        "noivern": {
+            "name": "Noivern",
+            "egg_groups": [
+                "flying",
+                "dragon"
+            ]
+        },
+        "cramorant": {
+            "name": "Cramorant",
+            "egg_groups": [
+                "flying",
+                "water 1"
+            ]
+        },
+        "sirfetch'd": {
+            "name": "Sirfetch'd",
+            "egg_groups": [
+                "flying",
+                "field"
+            ]
+        },
+        "quaxly": {
+            "name": "Quaxly",
+            "egg_groups": [
+                "flying",
+                "water 1"
+            ]
+        },
+        "quaxwell": {
+            "name": "Quaxwell",
+            "egg_groups": [
+                "flying",
+                "water 1"
+            ]
+        },
+        "quaquaval": {
+            "name": "Quaquaval",
+            "egg_groups": [
+                "flying",
+                "water 1"
+            ]
+        },
+        "wattrel": {
+            "name": "Wattrel",
+            "egg_groups": [
+                "flying",
+                "water 1"
+            ]
+        },
+        "kilowattrel": {
+            "name": "Kilowattrel",
+            "egg_groups": [
+                "flying",
+                "water 1"
+            ]
+        }
+    },
+    "field": {
+        "rattata": {
+            "name": "Rattata",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "rattata_alolan_form": {
+            "name": "Rattata Alolan Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "raticate": {
+            "name": "Raticate",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "raticate_alolan_form": {
+            "name": "Raticate Alolan Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "sandshrew": {
+            "name": "Sandshrew",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "sandshrew_alolan_form": {
+            "name": "Sandshrew Alolan Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "sandslash": {
+            "name": "Sandslash",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "sandslash_alolan_form": {
+            "name": "Sandslash Alolan Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "vulpix": {
+            "name": "Vulpix",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "vulpix_alolan_form": {
+            "name": "Vulpix Alolan Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "ninetales": {
+            "name": "Ninetales",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "ninetales_alolan_form": {
+            "name": "Ninetales Alolan Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "diglett": {
+            "name": "Diglett",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "diglett_alolan_form": {
+            "name": "Diglett Alolan Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "dugtrio": {
+            "name": "Dugtrio",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "dugtrio_alolan_form": {
+            "name": "Dugtrio Alolan Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "meowth": {
+            "name": "Meowth",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "meowth_alolan_form": {
+            "name": "Meowth Alolan Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "meowth_galarian_form": {
+            "name": "Meowth Galarian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "persian": {
+            "name": "Persian",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "persian_alolan_form": {
+            "name": "Persian Alolan Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "mankey": {
+            "name": "Mankey",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "primeape": {
+            "name": "Primeape",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "growlithe": {
+            "name": "Growlithe",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "growlithe_hisuian_form": {
+            "name": "Growlithe Hisuian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "arcanine": {
+            "name": "Arcanine",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "arcanine_hisuian_form": {
+            "name": "Arcanine Hisuian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "ponyta": {
+            "name": "Ponyta",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "ponyta_galarian_form": {
+            "name": "Ponyta Galarian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "rapidash": {
+            "name": "Rapidash",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "rapidash_galarian_form": {
+            "name": "Rapidash Galarian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "tauros": {
+            "name": "Tauros",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "tauros_paldean_form": {
+            "name": "Tauros Paldean Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "eevee": {
+            "name": "Eevee",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "vaporeon": {
+            "name": "Vaporeon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "jolteon": {
+            "name": "Jolteon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "flareon": {
+            "name": "Flareon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "cyndaquil": {
+            "name": "Cyndaquil",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "quilava": {
+            "name": "Quilava",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "typhlosion": {
+            "name": "Typhlosion",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "typhlosion_hisuian_form": {
+            "name": "Typhlosion Hisuian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "sentret": {
+            "name": "Sentret",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "furret": {
+            "name": "Furret",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "aipom": {
+            "name": "Aipom",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "espeon": {
+            "name": "Espeon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "umbreon": {
+            "name": "Umbreon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "girafarig": {
+            "name": "Girafarig",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "dunsparce": {
+            "name": "Dunsparce",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "sneasel": {
+            "name": "Sneasel",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "sneasel_hisuian_form": {
+            "name": "Sneasel Hisuian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "teddiursa": {
+            "name": "Teddiursa",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "ursaring": {
+            "name": "Ursaring",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "swinub": {
+            "name": "Swinub",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "piloswine": {
+            "name": "Piloswine",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "houndour": {
+            "name": "Houndour",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "houndoom": {
+            "name": "Houndoom",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "phanpy": {
+            "name": "Phanpy",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "donphan": {
+            "name": "Donphan",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "stantler": {
+            "name": "Stantler",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "smeargle": {
+            "name": "Smeargle",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "miltank": {
+            "name": "Miltank",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "torchic": {
+            "name": "Torchic",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "combusken": {
+            "name": "Combusken",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "blaziken": {
+            "name": "Blaziken",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "poochyena": {
+            "name": "Poochyena",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "mightyena": {
+            "name": "Mightyena",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "zigzagoon": {
+            "name": "Zigzagoon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "zigzagoon_galarian_form": {
+            "name": "Zigzagoon Galarian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "linoone": {
+            "name": "Linoone",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "linoone_galarian_form": {
+            "name": "Linoone Galarian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "slakoth": {
+            "name": "Slakoth",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "vigoroth": {
+            "name": "Vigoroth",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "slaking": {
+            "name": "Slaking",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "electrike": {
+            "name": "Electrike",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "manectric": {
+            "name": "Manectric",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "numel": {
+            "name": "Numel",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "camerupt": {
+            "name": "Camerupt",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "torkoal": {
+            "name": "Torkoal",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "spoink": {
+            "name": "Spoink",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "grumpig": {
+            "name": "Grumpig",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "zangoose": {
+            "name": "Zangoose",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "kecleon": {
+            "name": "Kecleon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "absol": {
+            "name": "Absol",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "shinx": {
+            "name": "Shinx",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "luxio": {
+            "name": "Luxio",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "luxray": {
+            "name": "Luxray",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "ambipom": {
+            "name": "Ambipom",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "glameow": {
+            "name": "Glameow",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "purugly": {
+            "name": "Purugly",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "stunky": {
+            "name": "Stunky",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "skuntank": {
+            "name": "Skuntank",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "hippopotas": {
+            "name": "Hippopotas",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "hippowdon": {
+            "name": "Hippowdon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "weavile": {
+            "name": "Weavile",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "leafeon": {
+            "name": "Leafeon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "glaceon": {
+            "name": "Glaceon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "mamoswine": {
+            "name": "Mamoswine",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "tepig": {
+            "name": "Tepig",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "pignite": {
+            "name": "Pignite",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "emboar": {
+            "name": "Emboar",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "oshawott": {
+            "name": "Oshawott",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "dewott": {
+            "name": "Dewott",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "samurott": {
+            "name": "Samurott",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "samurott_hisuian_form": {
+            "name": "Samurott Hisuian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "patrat": {
+            "name": "Patrat",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "watchog": {
+            "name": "Watchog",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "lillipup": {
+            "name": "Lillipup",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "herdier": {
+            "name": "Herdier",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "stoutland": {
+            "name": "Stoutland",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "purrloin": {
+            "name": "Purrloin",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "liepard": {
+            "name": "Liepard",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "pansage": {
+            "name": "Pansage",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "simisage": {
+            "name": "Simisage",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "pansear": {
+            "name": "Pansear",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "simisear": {
+            "name": "Simisear",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "panpour": {
+            "name": "Panpour",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "simipour": {
+            "name": "Simipour",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "munna": {
+            "name": "Munna",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "musharna": {
+            "name": "Musharna",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "blitzle": {
+            "name": "Blitzle",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "zebstrika": {
+            "name": "Zebstrika",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "drilbur": {
+            "name": "Drilbur",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "excadrill": {
+            "name": "Excadrill",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "sandile": {
+            "name": "Sandile",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "krokorok": {
+            "name": "Krokorok",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "krookodile": {
+            "name": "Krookodile",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "darumaka": {
+            "name": "Darumaka",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "darumaka_galarian_form": {
+            "name": "Darumaka Galarian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "darmanitan": {
+            "name": "Darmanitan",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "darmanitan_galarian_form": {
+            "name": "Darmanitan Galarian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "zorua": {
+            "name": "Zorua",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "zorua_hisuian_form": {
+            "name": "Zorua Hisuian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "zoroark": {
+            "name": "Zoroark",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "zoroark_hisuian_form": {
+            "name": "Zoroark Hisuian Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "minccino": {
+            "name": "Minccino",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "cinccino": {
+            "name": "Cinccino",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "deerling": {
+            "name": "Deerling",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "sawsbuck": {
+            "name": "Sawsbuck",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "emolga": {
+            "name": "Emolga",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "cubchoo": {
+            "name": "Cubchoo",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "beartic": {
+            "name": "Beartic",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "bouffalant": {
+            "name": "Bouffalant",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "heatmor": {
+            "name": "Heatmor",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "chespin": {
+            "name": "Chespin",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "quilladin": {
+            "name": "Quilladin",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "chesnaught": {
+            "name": "Chesnaught",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "fennekin": {
+            "name": "Fennekin",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "braixen": {
+            "name": "Braixen",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "delphox": {
+            "name": "Delphox",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "bunnelby": {
+            "name": "Bunnelby",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "diggersby": {
+            "name": "Diggersby",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "litleo": {
+            "name": "Litleo",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "pyroar": {
+            "name": "Pyroar",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "skiddo": {
+            "name": "Skiddo",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "gogoat": {
+            "name": "Gogoat",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "furfrou": {
+            "name": "Furfrou",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "espurr": {
+            "name": "Espurr",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "meowstic": {
+            "name": "Meowstic",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "sylveon": {
+            "name": "Sylveon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "litten": {
+            "name": "Litten",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "torracat": {
+            "name": "Torracat",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "incineroar": {
+            "name": "Incineroar",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "yungoos": {
+            "name": "Yungoos",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "gumshoos": {
+            "name": "Gumshoos",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "rockruff": {
+            "name": "Rockruff",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "lycanroc_midday_form": {
+            "name": "Lycanroc Midday Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "lycanroc_midnight_form": {
+            "name": "Lycanroc Midnight Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "lycanroc_dusk_form": {
+            "name": "Lycanroc Dusk Form",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "mudbray": {
+            "name": "Mudbray",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "mudsdale": {
+            "name": "Mudsdale",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "stufful": {
+            "name": "Stufful",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "bewear": {
+            "name": "Bewear",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "oranguru": {
+            "name": "Oranguru",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "passimian": {
+            "name": "Passimian",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "komala": {
+            "name": "Komala",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "skwovet": {
+            "name": "Skwovet",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "greedent": {
+            "name": "Greedent",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "nickit": {
+            "name": "Nickit",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "thievul": {
+            "name": "Thievul",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "wooloo": {
+            "name": "Wooloo",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "dubwool": {
+            "name": "Dubwool",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "yamper": {
+            "name": "Yamper",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "boltund": {
+            "name": "Boltund",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "obstagoon": {
+            "name": "Obstagoon",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "perrserker": {
+            "name": "Perrserker",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "wyrdeer": {
+            "name": "Wyrdeer",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "ursaluna": {
+            "name": "Ursaluna",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "sneasler": {
+            "name": "Sneasler",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "fuecoco": {
+            "name": "Fuecoco",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "crocalor": {
+            "name": "Crocalor",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "skeledirge": {
+            "name": "Skeledirge",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "lechonk": {
+            "name": "Lechonk",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "oinkologne": {
+            "name": "Oinkologne",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "dudunsparce": {
+            "name": "Dudunsparce",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "greavard": {
+            "name": "Greavard",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "houndstone": {
+            "name": "Houndstone",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "farigiraf": {
+            "name": "Farigiraf",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "orthworm": {
+            "name": "Orthworm",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "cetoddle": {
+            "name": "Cetoddle",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "cetitan": {
+            "name": "Cetitan",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "cyclizar": {
+            "name": "Cyclizar",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "pawmi": {
+            "name": "Pawmi",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "pawmo": {
+            "name": "Pawmo",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "pawmot": {
+            "name": "Pawmot",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "shroodle": {
+            "name": "Shroodle",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "grafaiai": {
+            "name": "Grafaiai",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "maschiff": {
+            "name": "Maschiff",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "mabosstiff": {
+            "name": "Mabosstiff",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "annihilape": {
+            "name": "Annihilape",
+            "egg_groups": [
+                "field"
+            ]
+        },
+        "ekans": {
+            "name": "Ekans",
+            "egg_groups": [
+                "field",
+                "dragon"
+            ]
+        },
+        "arbok": {
+            "name": "Arbok",
+            "egg_groups": [
+                "field",
+                "dragon"
+            ]
+        },
+        "pikachu": {
+            "name": "Pikachu",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "raichu": {
+            "name": "Raichu",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "raichu_alolan_form": {
+            "name": "Raichu Alolan Form",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "nidoran_f": {
+            "name": "Nidoran\u2640",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "nidoran_m": {
+            "name": "Nidoran\u2642",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "nidorino": {
+            "name": "Nidorino",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "nidoking": {
+            "name": "Nidoking",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "psyduck": {
+            "name": "Psyduck",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "golduck": {
+            "name": "Golduck",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "farfetch'd": {
+            "name": "Farfetch'd",
+            "egg_groups": [
+                "field",
+                "flying"
+            ]
+        },
+        "farfetch'd_galarian_form": {
+            "name": "Farfetch'd Galarian Form",
+            "egg_groups": [
+                "field",
+                "flying"
+            ]
+        },
+        "seel": {
+            "name": "Seel",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "dewgong": {
+            "name": "Dewgong",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "rhyhorn": {
+            "name": "Rhyhorn",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "rhydon": {
+            "name": "Rhydon",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "mareep": {
+            "name": "Mareep",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "flaaffy": {
+            "name": "Flaaffy",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "ampharos": {
+            "name": "Ampharos",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "wooper": {
+            "name": "Wooper",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "wooper_paldean_form": {
+            "name": "Wooper Paldean Form",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "quagsire": {
+            "name": "Quagsire",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "snubbull": {
+            "name": "Snubbull",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "granbull": {
+            "name": "Granbull",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "delibird": {
+            "name": "Delibird",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "seedot": {
+            "name": "Seedot",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "nuzleaf": {
+            "name": "Nuzleaf",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "shiftry": {
+            "name": "Shiftry",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "whismur": {
+            "name": "Whismur",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "loudred": {
+            "name": "Loudred",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "exploud": {
+            "name": "Exploud",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "skitty": {
+            "name": "Skitty",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "delcatty": {
+            "name": "Delcatty",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "mawile": {
+            "name": "Mawile",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "wailmer": {
+            "name": "Wailmer",
+            "egg_groups": [
+                "field",
+                "water 2"
+            ]
+        },
+        "wailord": {
+            "name": "Wailord",
+            "egg_groups": [
+                "field",
+                "water 2"
+            ]
+        },
+        "spinda": {
+            "name": "Spinda",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "seviper": {
+            "name": "Seviper",
+            "egg_groups": [
+                "field",
+                "dragon"
+            ]
+        },
+        "spheal": {
+            "name": "Spheal",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "sealeo": {
+            "name": "Sealeo",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "walrein": {
+            "name": "Walrein",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "chimchar": {
+            "name": "Chimchar",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "monferno": {
+            "name": "Monferno",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "infernape": {
+            "name": "Infernape",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "piplup": {
+            "name": "Piplup",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "prinplup": {
+            "name": "Prinplup",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "empoleon": {
+            "name": "Empoleon",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "bidoof": {
+            "name": "Bidoof",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "bibarel": {
+            "name": "Bibarel",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "pachirisu": {
+            "name": "Pachirisu",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "buizel": {
+            "name": "Buizel",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "floatzel": {
+            "name": "Floatzel",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "buneary": {
+            "name": "Buneary",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "lopunny": {
+            "name": "Lopunny",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "lucario": {
+            "name": "Lucario",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "rhyperior": {
+            "name": "Rhyperior",
+            "egg_groups": [
+                "field",
+                "monster"
+            ]
+        },
+        "snivy": {
+            "name": "Snivy",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "servine": {
+            "name": "Servine",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "serperior": {
+            "name": "Serperior",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "woobat": {
+            "name": "Woobat",
+            "egg_groups": [
+                "field",
+                "flying"
+            ]
+        },
+        "swoobat": {
+            "name": "Swoobat",
+            "egg_groups": [
+                "field",
+                "flying"
+            ]
+        },
+        "scraggy": {
+            "name": "Scraggy",
+            "egg_groups": [
+                "field",
+                "dragon"
+            ]
+        },
+        "scrafty": {
+            "name": "Scrafty",
+            "egg_groups": [
+                "field",
+                "dragon"
+            ]
+        },
+        "mienfoo": {
+            "name": "Mienfoo",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "mienshao": {
+            "name": "Mienshao",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "pancham": {
+            "name": "Pancham",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "pangoro": {
+            "name": "Pangoro",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "dedenne": {
+            "name": "Dedenne",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "popplio": {
+            "name": "Popplio",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "brionne": {
+            "name": "Brionne",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "primarina": {
+            "name": "Primarina",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "togedemaru": {
+            "name": "Togedemaru",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "grookey": {
+            "name": "Grookey",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "thwackey": {
+            "name": "Thwackey",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "rillaboom": {
+            "name": "Rillaboom",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "scorbunny": {
+            "name": "Scorbunny",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "raboot": {
+            "name": "Raboot",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "cinderace": {
+            "name": "Cinderace",
+            "egg_groups": [
+                "field",
+                "human_like"
+            ]
+        },
+        "sobble": {
+            "name": "Sobble",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "drizzile": {
+            "name": "Drizzile",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "inteleon": {
+            "name": "Inteleon",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "silicobra": {
+            "name": "Silicobra",
+            "egg_groups": [
+                "field",
+                "dragon"
+            ]
+        },
+        "sandaconda": {
+            "name": "Sandaconda",
+            "egg_groups": [
+                "field",
+                "dragon"
+            ]
+        },
+        "sirfetch'd": {
+            "name": "Sirfetch'd",
+            "egg_groups": [
+                "field",
+                "flying"
+            ]
+        },
+        "eiscue": {
+            "name": "Eiscue",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        },
+        "morpeko": {
+            "name": "Morpeko",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "cufant": {
+            "name": "Cufant",
+            "egg_groups": [
+                "field",
+                "mineral"
+            ]
+        },
+        "copperajah": {
+            "name": "Copperajah",
+            "egg_groups": [
+                "field",
+                "mineral"
+            ]
+        },
+        "sprigatito": {
+            "name": "Sprigatito",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "floragato": {
+            "name": "Floragato",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "meowscarada": {
+            "name": "Meowscarada",
+            "egg_groups": [
+                "field",
+                "grass"
+            ]
+        },
+        "finizen": {
+            "name": "Finizen",
+            "egg_groups": [
+                "field",
+                "water 2"
+            ]
+        },
+        "palafin": {
+            "name": "Palafin",
+            "egg_groups": [
+                "field",
+                "water 2"
+            ]
+        },
+        "tandemaus": {
+            "name": "Tandemaus",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "maushold": {
+            "name": "Maushold",
+            "egg_groups": [
+                "field",
+                "fairy"
+            ]
+        },
+        "fidough": {
+            "name": "Fidough",
+            "egg_groups": [
+                "field",
+                "mineral"
+            ]
+        },
+        "dachsbun": {
+            "name": "Dachsbun",
+            "egg_groups": [
+                "field",
+                "mineral"
+            ]
+        },
+        "clodsire": {
+            "name": "Clodsire",
+            "egg_groups": [
+                "field",
+                "water 1"
+            ]
+        }
+    },
+    "fairy": {
+        "clefairy": {
+            "name": "Clefairy",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "clefable": {
+            "name": "Clefable",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "jigglypuff": {
+            "name": "Jigglypuff",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "wigglytuff": {
+            "name": "Wigglytuff",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "chansey": {
+            "name": "Chansey",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "blissey": {
+            "name": "Blissey",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "plusle": {
+            "name": "Plusle",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "minun": {
+            "name": "Minun",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "audino": {
+            "name": "Audino",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "flab\u00e9b\u00e9": {
+            "name": "Flab\u00e9b\u00e9",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "floette": {
+            "name": "Floette",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "florges": {
+            "name": "Florges",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "spritzee": {
+            "name": "Spritzee",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "aromatisse": {
+            "name": "Aromatisse",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "swirlix": {
+            "name": "Swirlix",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "slurpuff": {
+            "name": "Slurpuff",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "hatenna": {
+            "name": "Hatenna",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "hattrem": {
+            "name": "Hattrem",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "hatterene": {
+            "name": "Hatterene",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "indeedee": {
+            "name": "Indeedee",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "tinkatink": {
+            "name": "Tinkatink",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "tinkatuff": {
+            "name": "Tinkatuff",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "tinkaton": {
+            "name": "Tinkaton",
+            "egg_groups": [
+                "fairy"
+            ]
+        },
+        "pikachu": {
+            "name": "Pikachu",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "raichu": {
+            "name": "Raichu",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "raichu_alolan_form": {
+            "name": "Raichu Alolan Form",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "togetic": {
+            "name": "Togetic",
+            "egg_groups": [
+                "fairy",
+                "flying"
+            ]
+        },
+        "marill": {
+            "name": "Marill",
+            "egg_groups": [
+                "fairy",
+                "water 1"
+            ]
+        },
+        "azumarill": {
+            "name": "Azumarill",
+            "egg_groups": [
+                "fairy",
+                "water 1"
+            ]
+        },
+        "hoppip": {
+            "name": "Hoppip",
+            "egg_groups": [
+                "fairy",
+                "grass"
+            ]
+        },
+        "skiploom": {
+            "name": "Skiploom",
+            "egg_groups": [
+                "fairy",
+                "grass"
+            ]
+        },
+        "jumpluff": {
+            "name": "Jumpluff",
+            "egg_groups": [
+                "fairy",
+                "grass"
+            ]
+        },
+        "snubbull": {
+            "name": "Snubbull",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "granbull": {
+            "name": "Granbull",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "shroomish": {
+            "name": "Shroomish",
+            "egg_groups": [
+                "fairy",
+                "grass"
+            ]
+        },
+        "breloom": {
+            "name": "Breloom",
+            "egg_groups": [
+                "fairy",
+                "grass"
+            ]
+        },
+        "skitty": {
+            "name": "Skitty",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "delcatty": {
+            "name": "Delcatty",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "mawile": {
+            "name": "Mawile",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "roselia": {
+            "name": "Roselia",
+            "egg_groups": [
+                "fairy",
+                "grass"
+            ]
+        },
+        "castform": {
+            "name": "Castform",
+            "egg_groups": [
+                "fairy",
+                "amorphous"
+            ]
+        },
+        "snorunt": {
+            "name": "Snorunt",
+            "egg_groups": [
+                "fairy",
+                "mineral"
+            ]
+        },
+        "glalie": {
+            "name": "Glalie",
+            "egg_groups": [
+                "fairy",
+                "mineral"
+            ]
+        },
+        "roserade": {
+            "name": "Roserade",
+            "egg_groups": [
+                "fairy",
+                "grass"
+            ]
+        },
+        "pachirisu": {
+            "name": "Pachirisu",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "cherubi": {
+            "name": "Cherubi",
+            "egg_groups": [
+                "fairy",
+                "grass"
+            ]
+        },
+        "cherrim": {
+            "name": "Cherrim",
+            "egg_groups": [
+                "fairy",
+                "grass"
+            ]
+        },
+        "togekiss": {
+            "name": "Togekiss",
+            "egg_groups": [
+                "fairy",
+                "flying"
+            ]
+        },
+        "froslass": {
+            "name": "Froslass",
+            "egg_groups": [
+                "fairy",
+                "mineral"
+            ]
+        },
+        "phione": {
+            "name": "Phione",
+            "egg_groups": [
+                "fairy",
+                "water 1"
+            ]
+        },
+        "manaphy": {
+            "name": "Manaphy",
+            "egg_groups": [
+                "fairy",
+                "water 1"
+            ]
+        },
+        "cottonee": {
+            "name": "Cottonee",
+            "egg_groups": [
+                "fairy",
+                "grass"
+            ]
+        },
+        "whimsicott": {
+            "name": "Whimsicott",
+            "egg_groups": [
+                "fairy",
+                "grass"
+            ]
+        },
+        "dedenne": {
+            "name": "Dedenne",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "carbink": {
+            "name": "Carbink",
+            "egg_groups": [
+                "fairy",
+                "mineral"
+            ]
+        },
+        "cutiefly": {
+            "name": "Cutiefly",
+            "egg_groups": [
+                "fairy",
+                "bug"
+            ]
+        },
+        "ribombee": {
+            "name": "Ribombee",
+            "egg_groups": [
+                "fairy",
+                "bug"
+            ]
+        },
+        "togedemaru": {
+            "name": "Togedemaru",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "impidimp": {
+            "name": "Impidimp",
+            "egg_groups": [
+                "fairy",
+                "human_like"
+            ]
+        },
+        "morgrem": {
+            "name": "Morgrem",
+            "egg_groups": [
+                "fairy",
+                "human_like"
+            ]
+        },
+        "grimmsnarl": {
+            "name": "Grimmsnarl",
+            "egg_groups": [
+                "fairy",
+                "human_like"
+            ]
+        },
+        "milcery": {
+            "name": "Milcery",
+            "egg_groups": [
+                "fairy",
+                "amorphous"
+            ]
+        },
+        "alcremie": {
+            "name": "Alcremie",
+            "egg_groups": [
+                "fairy",
+                "amorphous"
+            ]
+        },
+        "falinks": {
+            "name": "Falinks",
+            "egg_groups": [
+                "fairy",
+                "mineral"
+            ]
+        },
+        "morpeko": {
+            "name": "Morpeko",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "tandemaus": {
+            "name": "Tandemaus",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        },
+        "maushold": {
+            "name": "Maushold",
+            "egg_groups": [
+                "fairy",
+                "field"
+            ]
+        }
+    },
+    "grass": {
+        "oddish": {
+            "name": "Oddish",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "gloom": {
+            "name": "Gloom",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "vileplume": {
+            "name": "Vileplume",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "bellsprout": {
+            "name": "Bellsprout",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "weepinbell": {
+            "name": "Weepinbell",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "victreebel": {
+            "name": "Victreebel",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "exeggcute": {
+            "name": "Exeggcute",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "exeggutor": {
+            "name": "Exeggutor",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "exeggutor_alolan_form": {
+            "name": "Exeggutor Alolan Form",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "tangela": {
+            "name": "Tangela",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "bellossom": {
+            "name": "Bellossom",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "sunkern": {
+            "name": "Sunkern",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "sunflora": {
+            "name": "Sunflora",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "carnivine": {
+            "name": "Carnivine",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "tangrowth": {
+            "name": "Tangrowth",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "petilil": {
+            "name": "Petilil",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "lilligant": {
+            "name": "Lilligant",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "lilligant_hisuian_form": {
+            "name": "Lilligant Hisuian Form",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "maractus": {
+            "name": "Maractus",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "foongus": {
+            "name": "Foongus",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "amoonguss": {
+            "name": "Amoonguss",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "fomantis": {
+            "name": "Fomantis",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "lurantis": {
+            "name": "Lurantis",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "morelull": {
+            "name": "Morelull",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "shiinotic": {
+            "name": "Shiinotic",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "bounsweet": {
+            "name": "Bounsweet",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "steenee": {
+            "name": "Steenee",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "tsareena": {
+            "name": "Tsareena",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "comfey": {
+            "name": "Comfey",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "gossifleur": {
+            "name": "Gossifleur",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "eldegoss": {
+            "name": "Eldegoss",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "smoliv": {
+            "name": "Smoliv",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "dolliv": {
+            "name": "Dolliv",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "arboliva": {
+            "name": "Arboliva",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "capsakid": {
+            "name": "Capsakid",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "scovillain": {
+            "name": "Scovillain",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "bramblin": {
+            "name": "Bramblin",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "brambleghast": {
+            "name": "Brambleghast",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "toedscool": {
+            "name": "Toedscool",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "toedscruel": {
+            "name": "Toedscruel",
+            "egg_groups": [
+                "grass"
+            ]
+        },
+        "bulbasaur": {
+            "name": "Bulbasaur",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "ivysaur": {
+            "name": "Ivysaur",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "venusaur": {
+            "name": "Venusaur",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "paras": {
+            "name": "Paras",
+            "egg_groups": [
+                "grass",
+                "bug"
+            ]
+        },
+        "parasect": {
+            "name": "Parasect",
+            "egg_groups": [
+                "grass",
+                "bug"
+            ]
+        },
+        "chikorita": {
+            "name": "Chikorita",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "bayleef": {
+            "name": "Bayleef",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "meganium": {
+            "name": "Meganium",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "hoppip": {
+            "name": "Hoppip",
+            "egg_groups": [
+                "grass",
+                "fairy"
+            ]
+        },
+        "skiploom": {
+            "name": "Skiploom",
+            "egg_groups": [
+                "grass",
+                "fairy"
+            ]
+        },
+        "jumpluff": {
+            "name": "Jumpluff",
+            "egg_groups": [
+                "grass",
+                "fairy"
+            ]
+        },
+        "lotad": {
+            "name": "Lotad",
+            "egg_groups": [
+                "grass",
+                "water 1"
+            ]
+        },
+        "lombre": {
+            "name": "Lombre",
+            "egg_groups": [
+                "grass",
+                "water 1"
+            ]
+        },
+        "ludicolo": {
+            "name": "Ludicolo",
+            "egg_groups": [
+                "grass",
+                "water 1"
+            ]
+        },
+        "seedot": {
+            "name": "Seedot",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        },
+        "nuzleaf": {
+            "name": "Nuzleaf",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        },
+        "shiftry": {
+            "name": "Shiftry",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        },
+        "shroomish": {
+            "name": "Shroomish",
+            "egg_groups": [
+                "grass",
+                "fairy"
+            ]
+        },
+        "breloom": {
+            "name": "Breloom",
+            "egg_groups": [
+                "grass",
+                "fairy"
+            ]
+        },
+        "roselia": {
+            "name": "Roselia",
+            "egg_groups": [
+                "grass",
+                "fairy"
+            ]
+        },
+        "cacnea": {
+            "name": "Cacnea",
+            "egg_groups": [
+                "grass",
+                "human_like"
+            ]
+        },
+        "cacturne": {
+            "name": "Cacturne",
+            "egg_groups": [
+                "grass",
+                "human_like"
+            ]
+        },
+        "tropius": {
+            "name": "Tropius",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "turtwig": {
+            "name": "Turtwig",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "grotle": {
+            "name": "Grotle",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "torterra": {
+            "name": "Torterra",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "roserade": {
+            "name": "Roserade",
+            "egg_groups": [
+                "grass",
+                "fairy"
+            ]
+        },
+        "cherubi": {
+            "name": "Cherubi",
+            "egg_groups": [
+                "grass",
+                "fairy"
+            ]
+        },
+        "cherrim": {
+            "name": "Cherrim",
+            "egg_groups": [
+                "grass",
+                "fairy"
+            ]
+        },
+        "snover": {
+            "name": "Snover",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "abomasnow": {
+            "name": "Abomasnow",
+            "egg_groups": [
+                "grass",
+                "monster"
+            ]
+        },
+        "snivy": {
+            "name": "Snivy",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        },
+        "servine": {
+            "name": "Servine",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        },
+        "serperior": {
+            "name": "Serperior",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        },
+        "cottonee": {
+            "name": "Cottonee",
+            "egg_groups": [
+                "grass",
+                "fairy"
+            ]
+        },
+        "whimsicott": {
+            "name": "Whimsicott",
+            "egg_groups": [
+                "grass",
+                "fairy"
+            ]
+        },
+        "ferroseed": {
+            "name": "Ferroseed",
+            "egg_groups": [
+                "grass",
+                "mineral"
+            ]
+        },
+        "ferrothorn": {
+            "name": "Ferrothorn",
+            "egg_groups": [
+                "grass",
+                "mineral"
+            ]
+        },
+        "phantump": {
+            "name": "Phantump",
+            "egg_groups": [
+                "grass",
+                "amorphous"
+            ]
+        },
+        "trevenant": {
+            "name": "Trevenant",
+            "egg_groups": [
+                "grass",
+                "amorphous"
+            ]
+        },
+        "grookey": {
+            "name": "Grookey",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        },
+        "thwackey": {
+            "name": "Thwackey",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        },
+        "rillaboom": {
+            "name": "Rillaboom",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        },
+        "applin": {
+            "name": "Applin",
+            "egg_groups": [
+                "grass",
+                "dragon"
+            ]
+        },
+        "flapple": {
+            "name": "Flapple",
+            "egg_groups": [
+                "grass",
+                "dragon"
+            ]
+        },
+        "appletun": {
+            "name": "Appletun",
+            "egg_groups": [
+                "grass",
+                "dragon"
+            ]
+        },
+        "sprigatito": {
+            "name": "Sprigatito",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        },
+        "floragato": {
+            "name": "Floragato",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        },
+        "meowscarada": {
+            "name": "Meowscarada",
+            "egg_groups": [
+                "grass",
+                "field"
+            ]
+        }
+    },
+    "human_like": {
+        "abra": {
+            "name": "Abra",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "kadabra": {
+            "name": "Kadabra",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "alakazam": {
+            "name": "Alakazam",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "machop": {
+            "name": "Machop",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "machoke": {
+            "name": "Machoke",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "machamp": {
+            "name": "Machamp",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "drowzee": {
+            "name": "Drowzee",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "hypno": {
+            "name": "Hypno",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "hitmonlee": {
+            "name": "Hitmonlee",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "hitmonchan": {
+            "name": "Hitmonchan",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "mr._mime": {
+            "name": "Mr. Mime",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "mr._mime_galarian_form": {
+            "name": "Mr. Mime Galarian Form",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "jynx": {
+            "name": "Jynx",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "electabuzz": {
+            "name": "Electabuzz",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "magmar": {
+            "name": "Magmar",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "hitmontop": {
+            "name": "Hitmontop",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "makuhita": {
+            "name": "Makuhita",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "hariyama": {
+            "name": "Hariyama",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "sableye": {
+            "name": "Sableye",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "meditite": {
+            "name": "Meditite",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "medicham": {
+            "name": "Medicham",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "croagunk": {
+            "name": "Croagunk",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "toxicroak": {
+            "name": "Toxicroak",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "electivire": {
+            "name": "Electivire",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "magmortar": {
+            "name": "Magmortar",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "timburr": {
+            "name": "Timburr",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "gurdurr": {
+            "name": "Gurdurr",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "conkeldurr": {
+            "name": "Conkeldurr",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "throh": {
+            "name": "Throh",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "sawk": {
+            "name": "Sawk",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "gothita": {
+            "name": "Gothita",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "gothorita": {
+            "name": "Gothorita",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "gothitelle": {
+            "name": "Gothitelle",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "elgyem": {
+            "name": "Elgyem",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "beheeyem": {
+            "name": "Beheeyem",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "pawniard": {
+            "name": "Pawniard",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "bisharp": {
+            "name": "Bisharp",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "toxtricity": {
+            "name": "Toxtricity",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "mr._rime": {
+            "name": "Mr. Rime",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "charcadet": {
+            "name": "Charcadet",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "armarouge": {
+            "name": "Armarouge",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "ceruledge": {
+            "name": "Ceruledge",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "kingambit": {
+            "name": "Kingambit",
+            "egg_groups": [
+                "human_like"
+            ]
+        },
+        "ralts": {
+            "name": "Ralts",
+            "egg_groups": [
+                "human_like",
+                "amorphous"
+            ]
+        },
+        "kirlia": {
+            "name": "Kirlia",
+            "egg_groups": [
+                "human_like",
+                "amorphous"
+            ]
+        },
+        "gardevoir": {
+            "name": "Gardevoir",
+            "egg_groups": [
+                "human_like",
+                "amorphous"
+            ]
+        },
+        "volbeat": {
+            "name": "Volbeat",
+            "egg_groups": [
+                "human_like",
+                "bug"
+            ]
+        },
+        "illumise": {
+            "name": "Illumise",
+            "egg_groups": [
+                "human_like",
+                "bug"
+            ]
+        },
+        "spinda": {
+            "name": "Spinda",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "cacnea": {
+            "name": "Cacnea",
+            "egg_groups": [
+                "human_like",
+                "grass"
+            ]
+        },
+        "cacturne": {
+            "name": "Cacturne",
+            "egg_groups": [
+                "human_like",
+                "grass"
+            ]
+        },
+        "chimchar": {
+            "name": "Chimchar",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "monferno": {
+            "name": "Monferno",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "infernape": {
+            "name": "Infernape",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "buneary": {
+            "name": "Buneary",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "lopunny": {
+            "name": "Lopunny",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "lucario": {
+            "name": "Lucario",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "gallade": {
+            "name": "Gallade",
+            "egg_groups": [
+                "human_like",
+                "amorphous"
+            ]
+        },
+        "mienfoo": {
+            "name": "Mienfoo",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "mienshao": {
+            "name": "Mienshao",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "pancham": {
+            "name": "Pancham",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "pangoro": {
+            "name": "Pangoro",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "hawlucha": {
+            "name": "Hawlucha",
+            "egg_groups": [
+                "human_like",
+                "flying"
+            ]
+        },
+        "scorbunny": {
+            "name": "Scorbunny",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "raboot": {
+            "name": "Raboot",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "cinderace": {
+            "name": "Cinderace",
+            "egg_groups": [
+                "human_like",
+                "field"
+            ]
+        },
+        "clobbopus": {
+            "name": "Clobbopus",
+            "egg_groups": [
+                "human_like",
+                "water 1"
+            ]
+        },
+        "grapploct": {
+            "name": "Grapploct",
+            "egg_groups": [
+                "human_like",
+                "water 1"
+            ]
+        },
+        "impidimp": {
+            "name": "Impidimp",
+            "egg_groups": [
+                "human_like",
+                "fairy"
+            ]
+        },
+        "morgrem": {
+            "name": "Morgrem",
+            "egg_groups": [
+                "human_like",
+                "fairy"
+            ]
+        },
+        "grimmsnarl": {
+            "name": "Grimmsnarl",
+            "egg_groups": [
+                "human_like",
+                "fairy"
+            ]
+        }
+    },
+    "water_3": {
+        "tentacool": {
+            "name": "Tentacool",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "tentacruel": {
+            "name": "Tentacruel",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "shellder": {
+            "name": "Shellder",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "cloyster": {
+            "name": "Cloyster",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "krabby": {
+            "name": "Krabby",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "kingler": {
+            "name": "Kingler",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "staryu": {
+            "name": "Staryu",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "starmie": {
+            "name": "Starmie",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "lileep": {
+            "name": "Lileep",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "cradily": {
+            "name": "Cradily",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "anorith": {
+            "name": "Anorith",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "armaldo": {
+            "name": "Armaldo",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "binacle": {
+            "name": "Binacle",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "barbaracle": {
+            "name": "Barbaracle",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "crabrawler": {
+            "name": "Crabrawler",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "crabominable": {
+            "name": "Crabominable",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "wiglett": {
+            "name": "Wiglett",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "wugtrio": {
+            "name": "Wugtrio",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "klawf": {
+            "name": "Klawf",
+            "egg_groups": [
+                "water_3"
+            ]
+        },
+        "omanyte": {
+            "name": "Omanyte",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "omastar": {
+            "name": "Omastar",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "kabuto": {
+            "name": "Kabuto",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "kabutops": {
+            "name": "Kabutops",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "corsola": {
+            "name": "Corsola",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "corsola_galarian_form": {
+            "name": "Corsola Galarian Form",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "corphish": {
+            "name": "Corphish",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "crawdaunt": {
+            "name": "Crawdaunt",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "skorupi": {
+            "name": "Skorupi",
+            "egg_groups": [
+                "water_3",
+                "bug"
+            ]
+        },
+        "drapion": {
+            "name": "Drapion",
+            "egg_groups": [
+                "water_3",
+                "bug"
+            ]
+        },
+        "tirtouga": {
+            "name": "Tirtouga",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "carracosta": {
+            "name": "Carracosta",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "archen": {
+            "name": "Archen",
+            "egg_groups": [
+                "water_3",
+                "flying"
+            ]
+        },
+        "archeops": {
+            "name": "Archeops",
+            "egg_groups": [
+                "water_3",
+                "flying"
+            ]
+        },
+        "clauncher": {
+            "name": "Clauncher",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "clawitzer": {
+            "name": "Clawitzer",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        },
+        "wimpod": {
+            "name": "Wimpod",
+            "egg_groups": [
+                "water_3",
+                "bug"
+            ]
+        },
+        "golisopod": {
+            "name": "Golisopod",
+            "egg_groups": [
+                "water_3",
+                "bug"
+            ]
+        },
+        "cursola": {
+            "name": "Cursola",
+            "egg_groups": [
+                "water_3",
+                "water 1"
+            ]
+        }
+    },
+    "mineral": {
+        "geodude": {
+            "name": "Geodude",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "geodude_alolan_form": {
+            "name": "Geodude Alolan Form",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "graveler": {
+            "name": "Graveler",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "graveler_alolan_form": {
+            "name": "Graveler Alolan Form",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "golem": {
+            "name": "Golem",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "golem_alolan_form": {
+            "name": "Golem Alolan Form",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "magnemite": {
+            "name": "Magnemite",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "magneton": {
+            "name": "Magneton",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "onix": {
+            "name": "Onix",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "voltorb": {
+            "name": "Voltorb",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "voltorb_hisuian_form": {
+            "name": "Voltorb Hisuian Form",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "electrode": {
+            "name": "Electrode",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "electrode_hisuian_form": {
+            "name": "Electrode Hisuian Form",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "porygon": {
+            "name": "Porygon",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "sudowoodo": {
+            "name": "Sudowoodo",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "steelix": {
+            "name": "Steelix",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "porygon2": {
+            "name": "Porygon2",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "shedinja": {
+            "name": "Shedinja",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "nosepass": {
+            "name": "Nosepass",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "lunatone": {
+            "name": "Lunatone",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "solrock": {
+            "name": "Solrock",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "baltoy": {
+            "name": "Baltoy",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "claydol": {
+            "name": "Claydol",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "beldum": {
+            "name": "Beldum",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "metang": {
+            "name": "Metang",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "metagross": {
+            "name": "Metagross",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "bronzor": {
+            "name": "Bronzor",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "bronzong": {
+            "name": "Bronzong",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "magnezone": {
+            "name": "Magnezone",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "porygon_z": {
+            "name": "Porygon-Z",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "probopass": {
+            "name": "Probopass",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "roggenrola": {
+            "name": "Roggenrola",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "boldore": {
+            "name": "Boldore",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "gigalith": {
+            "name": "Gigalith",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "trubbish": {
+            "name": "Trubbish",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "garbodor": {
+            "name": "Garbodor",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "vanillite": {
+            "name": "Vanillite",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "vanillish": {
+            "name": "Vanillish",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "vanilluxe": {
+            "name": "Vanilluxe",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "klink": {
+            "name": "Klink",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "klang": {
+            "name": "Klang",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "klinklang": {
+            "name": "Klinklang",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "cryogonal": {
+            "name": "Cryogonal",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "golett": {
+            "name": "Golett",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "golurk": {
+            "name": "Golurk",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "honedge": {
+            "name": "Honedge",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "doublade": {
+            "name": "Doublade",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "aegislash": {
+            "name": "Aegislash",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "klefki": {
+            "name": "Klefki",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "minior": {
+            "name": "Minior",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "dhelmise": {
+            "name": "Dhelmise",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "rolycoly": {
+            "name": "Rolycoly",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "carkol": {
+            "name": "Carkol",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "coalossal": {
+            "name": "Coalossal",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "stonjourner": {
+            "name": "Stonjourner",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "varoom": {
+            "name": "Varoom",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "revavroom": {
+            "name": "Revavroom",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "nacli": {
+            "name": "Nacli",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "naclstack": {
+            "name": "Naclstack",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "garganacl": {
+            "name": "Garganacl",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "glimmet": {
+            "name": "Glimmet",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "glimmora": {
+            "name": "Glimmora",
+            "egg_groups": [
+                "mineral"
+            ]
+        },
+        "snorunt": {
+            "name": "Snorunt",
+            "egg_groups": [
+                "mineral",
+                "fairy"
+            ]
+        },
+        "glalie": {
+            "name": "Glalie",
+            "egg_groups": [
+                "mineral",
+                "fairy"
+            ]
+        },
+        "froslass": {
+            "name": "Froslass",
+            "egg_groups": [
+                "mineral",
+                "fairy"
+            ]
+        },
+        "dwebble": {
+            "name": "Dwebble",
+            "egg_groups": [
+                "mineral",
+                "bug"
+            ]
+        },
+        "crustle": {
+            "name": "Crustle",
+            "egg_groups": [
+                "mineral",
+                "bug"
+            ]
+        },
+        "yamask": {
+            "name": "Yamask",
+            "egg_groups": [
+                "mineral",
+                "amorphous"
+            ]
+        },
+        "yamask_galarian_form": {
+            "name": "Yamask Galarian Form",
+            "egg_groups": [
+                "mineral",
+                "amorphous"
+            ]
+        },
+        "cofagrigus": {
+            "name": "Cofagrigus",
+            "egg_groups": [
+                "mineral",
+                "amorphous"
+            ]
+        },
+        "ferroseed": {
+            "name": "Ferroseed",
+            "egg_groups": [
+                "mineral",
+                "grass"
+            ]
+        },
+        "ferrothorn": {
+            "name": "Ferrothorn",
+            "egg_groups": [
+                "mineral",
+                "grass"
+            ]
+        },
+        "carbink": {
+            "name": "Carbink",
+            "egg_groups": [
+                "mineral",
+                "fairy"
+            ]
+        },
+        "bergmite": {
+            "name": "Bergmite",
+            "egg_groups": [
+                "mineral",
+                "monster"
+            ]
+        },
+        "avalugg": {
+            "name": "Avalugg",
+            "egg_groups": [
+                "mineral",
+                "monster"
+            ]
+        },
+        "avalugg_hisuian_form": {
+            "name": "Avalugg Hisuian Form",
+            "egg_groups": [
+                "mineral",
+                "monster"
+            ]
+        },
+        "sinistea": {
+            "name": "Sinistea",
+            "egg_groups": [
+                "mineral",
+                "amorphous"
+            ]
+        },
+        "polteageist": {
+            "name": "Polteageist",
+            "egg_groups": [
+                "mineral",
+                "amorphous"
+            ]
+        },
+        "runerigus": {
+            "name": "Runerigus",
+            "egg_groups": [
+                "mineral",
+                "amorphous"
+            ]
+        },
+        "falinks": {
+            "name": "Falinks",
+            "egg_groups": [
+                "mineral",
+                "fairy"
+            ]
+        },
+        "cufant": {
+            "name": "Cufant",
+            "egg_groups": [
+                "mineral",
+                "field"
+            ]
+        },
+        "copperajah": {
+            "name": "Copperajah",
+            "egg_groups": [
+                "mineral",
+                "field"
+            ]
+        },
+        "duraludon": {
+            "name": "Duraludon",
+            "egg_groups": [
+                "mineral",
+                "dragon"
+            ]
+        },
+        "frigibax": {
+            "name": "Frigibax",
+            "egg_groups": [
+                "mineral",
+                "dragon"
+            ]
+        },
+        "arctibax": {
+            "name": "Arctibax",
+            "egg_groups": [
+                "mineral",
+                "dragon"
+            ]
+        },
+        "baxcalibur": {
+            "name": "Baxcalibur",
+            "egg_groups": [
+                "mineral",
+                "dragon"
+            ]
+        },
+        "fidough": {
+            "name": "Fidough",
+            "egg_groups": [
+                "mineral",
+                "field"
+            ]
+        },
+        "dachsbun": {
+            "name": "Dachsbun",
+            "egg_groups": [
+                "mineral",
+                "field"
+            ]
+        }
+    },
+    "amorphous": {
+        "grimer": {
+            "name": "Grimer",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "grimer_alolan_form": {
+            "name": "Grimer Alolan Form",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "muk": {
+            "name": "Muk",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "muk_alolan_form": {
+            "name": "Muk Alolan Form",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "gastly": {
+            "name": "Gastly",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "haunter": {
+            "name": "Haunter",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "gengar": {
+            "name": "Gengar",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "koffing": {
+            "name": "Koffing",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "weezing": {
+            "name": "Weezing",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "weezing_galarian_form": {
+            "name": "Weezing Galarian Form",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "misdreavus": {
+            "name": "Misdreavus",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "wobbuffet": {
+            "name": "Wobbuffet",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "slugma": {
+            "name": "Slugma",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "magcargo": {
+            "name": "Magcargo",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "gulpin": {
+            "name": "Gulpin",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "swalot": {
+            "name": "Swalot",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "shuppet": {
+            "name": "Shuppet",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "banette": {
+            "name": "Banette",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "duskull": {
+            "name": "Duskull",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "dusclops": {
+            "name": "Dusclops",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "chimecho": {
+            "name": "Chimecho",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "drifloon": {
+            "name": "Drifloon",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "drifblim": {
+            "name": "Drifblim",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "mismagius": {
+            "name": "Mismagius",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "spiritomb": {
+            "name": "Spiritomb",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "dusknoir": {
+            "name": "Dusknoir",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "rotom": {
+            "name": "Rotom",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "rotom_heat_rotom": {
+            "name": "Rotom Heat Rotom",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "rotom_wash_rotom": {
+            "name": "Rotom Wash Rotom",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "rotom_frost_rotom": {
+            "name": "Rotom Frost Rotom",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "rotom_fan_rotom": {
+            "name": "Rotom Fan Rotom",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "rotom_mow_rotom": {
+            "name": "Rotom Mow Rotom",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "solosis": {
+            "name": "Solosis",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "duosion": {
+            "name": "Duosion",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "reuniclus": {
+            "name": "Reuniclus",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "frillish": {
+            "name": "Frillish",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "jellicent": {
+            "name": "Jellicent",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "tynamo": {
+            "name": "Tynamo",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "eelektrik": {
+            "name": "Eelektrik",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "eelektross": {
+            "name": "Eelektross",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "litwick": {
+            "name": "Litwick",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "lampent": {
+            "name": "Lampent",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "chandelure": {
+            "name": "Chandelure",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "pumpkaboo": {
+            "name": "Pumpkaboo",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "gourgeist": {
+            "name": "Gourgeist",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "sandygast": {
+            "name": "Sandygast",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "palossand": {
+            "name": "Palossand",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "mimikyu": {
+            "name": "Mimikyu",
+            "egg_groups": [
+                "amorphous"
+            ]
+        },
+        "ralts": {
+            "name": "Ralts",
+            "egg_groups": [
+                "amorphous",
+                "human_like"
+            ]
+        },
+        "kirlia": {
+            "name": "Kirlia",
+            "egg_groups": [
+                "amorphous",
+                "human_like"
+            ]
+        },
+        "gardevoir": {
+            "name": "Gardevoir",
+            "egg_groups": [
+                "amorphous",
+                "human_like"
+            ]
+        },
+        "castform": {
+            "name": "Castform",
+            "egg_groups": [
+                "amorphous",
+                "fairy"
+            ]
+        },
+        "shellos": {
+            "name": "Shellos",
+            "egg_groups": [
+                "amorphous",
+                "water 1"
+            ]
+        },
+        "gastrodon": {
+            "name": "Gastrodon",
+            "egg_groups": [
+                "amorphous",
+                "water 1"
+            ]
+        },
+        "gallade": {
+            "name": "Gallade",
+            "egg_groups": [
+                "amorphous",
+                "human_like"
+            ]
+        },
+        "yamask": {
+            "name": "Yamask",
+            "egg_groups": [
+                "amorphous",
+                "mineral"
+            ]
+        },
+        "yamask_galarian_form": {
+            "name": "Yamask Galarian Form",
+            "egg_groups": [
+                "amorphous",
+                "mineral"
+            ]
+        },
+        "cofagrigus": {
+            "name": "Cofagrigus",
+            "egg_groups": [
+                "amorphous",
+                "mineral"
+            ]
+        },
+        "stunfisk": {
+            "name": "Stunfisk",
+            "egg_groups": [
+                "amorphous",
+                "water 1"
+            ]
+        },
+        "stunfisk_galarian_form": {
+            "name": "Stunfisk Galarian Form",
+            "egg_groups": [
+                "amorphous",
+                "water 1"
+            ]
+        },
+        "phantump": {
+            "name": "Phantump",
+            "egg_groups": [
+                "amorphous",
+                "grass"
+            ]
+        },
+        "trevenant": {
+            "name": "Trevenant",
+            "egg_groups": [
+                "amorphous",
+                "grass"
+            ]
+        },
+        "sinistea": {
+            "name": "Sinistea",
+            "egg_groups": [
+                "amorphous",
+                "mineral"
+            ]
+        },
+        "polteageist": {
+            "name": "Polteageist",
+            "egg_groups": [
+                "amorphous",
+                "mineral"
+            ]
+        },
+        "runerigus": {
+            "name": "Runerigus",
+            "egg_groups": [
+                "amorphous",
+                "mineral"
+            ]
+        },
+        "milcery": {
+            "name": "Milcery",
+            "egg_groups": [
+                "amorphous",
+                "fairy"
+            ]
+        },
+        "alcremie": {
+            "name": "Alcremie",
+            "egg_groups": [
+                "amorphous",
+                "fairy"
+            ]
+        },
+        "pincurchin": {
+            "name": "Pincurchin",
+            "egg_groups": [
+                "amorphous",
+                "water 1"
+            ]
+        },
+        "dreepy": {
+            "name": "Dreepy",
+            "egg_groups": [
+                "amorphous",
+                "dragon"
+            ]
+        },
+        "drakloak": {
+            "name": "Drakloak",
+            "egg_groups": [
+                "amorphous",
+                "dragon"
+            ]
+        },
+        "dragapult": {
+            "name": "Dragapult",
+            "egg_groups": [
+                "amorphous",
+                "dragon"
+            ]
+        }
+    },
+    "water_2": {
+        "goldeen": {
+            "name": "Goldeen",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "seaking": {
+            "name": "Seaking",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "chinchou": {
+            "name": "Chinchou",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "lanturn": {
+            "name": "Lanturn",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "qwilfish": {
+            "name": "Qwilfish",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "qwilfish_hisuian_form": {
+            "name": "Qwilfish Hisuian Form",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "carvanha": {
+            "name": "Carvanha",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "sharpedo": {
+            "name": "Sharpedo",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "barboach": {
+            "name": "Barboach",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "whiscash": {
+            "name": "Whiscash",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "luvdisc": {
+            "name": "Luvdisc",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "finneon": {
+            "name": "Finneon",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "lumineon": {
+            "name": "Lumineon",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "basculin_red_striped": {
+            "name": "Basculin Red-Striped",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "basculin_blue_striped": {
+            "name": "Basculin Blue-Striped",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "basculin_white_striped": {
+            "name": "Basculin White-Striped",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "wishiwashi": {
+            "name": "Wishiwashi",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "bruxish": {
+            "name": "Bruxish",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "arrokuda": {
+            "name": "Arrokuda",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "barraskewda": {
+            "name": "Barraskewda",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "basculegion": {
+            "name": "Basculegion",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "overqwil": {
+            "name": "Overqwil",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "dondozo": {
+            "name": "Dondozo",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "veluza": {
+            "name": "Veluza",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "tatsugiri": {
+            "name": "Tatsugiri",
+            "egg_groups": [
+                "water_2"
+            ]
+        },
+        "magikarp": {
+            "name": "Magikarp",
+            "egg_groups": [
+                "water_2",
+                "dragon"
+            ]
+        },
+        "gyarados": {
+            "name": "Gyarados",
+            "egg_groups": [
+                "water_2",
+                "dragon"
+            ]
+        },
+        "remoraid": {
+            "name": "Remoraid",
+            "egg_groups": [
+                "water_2",
+                "water 1"
+            ]
+        },
+        "octillery": {
+            "name": "Octillery",
+            "egg_groups": [
+                "water_2",
+                "water 1"
+            ]
+        },
+        "wailmer": {
+            "name": "Wailmer",
+            "egg_groups": [
+                "water_2",
+                "field"
+            ]
+        },
+        "wailord": {
+            "name": "Wailord",
+            "egg_groups": [
+                "water_2",
+                "field"
+            ]
+        },
+        "relicanth": {
+            "name": "Relicanth",
+            "egg_groups": [
+                "water_2",
+                "water 1"
+            ]
+        },
+        "alomomola": {
+            "name": "Alomomola",
+            "egg_groups": [
+                "water_2",
+                "water 1"
+            ]
+        },
+        "inkay": {
+            "name": "Inkay",
+            "egg_groups": [
+                "water_2",
+                "water 1"
+            ]
+        },
+        "malamar": {
+            "name": "Malamar",
+            "egg_groups": [
+                "water_2",
+                "water 1"
+            ]
+        },
+        "finizen": {
+            "name": "Finizen",
+            "egg_groups": [
+                "water_2",
+                "field"
+            ]
+        },
+        "palafin": {
+            "name": "Palafin",
+            "egg_groups": [
+                "water_2",
+                "field"
+            ]
+        }
+    },
+    "ditto": {
+        "ditto": {
+            "name": "Ditto",
+            "egg_groups": [
+                "ditto"
+            ]
+        }
+    },
+    "dragon": {
+        "bagon": {
+            "name": "Bagon",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "shelgon": {
+            "name": "Shelgon",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "salamence": {
+            "name": "Salamence",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "deino": {
+            "name": "Deino",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "zweilous": {
+            "name": "Zweilous",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "hydreigon": {
+            "name": "Hydreigon",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "goomy": {
+            "name": "Goomy",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "sliggoo": {
+            "name": "Sliggoo",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "sliggoo_hisuian_form": {
+            "name": "Sliggoo Hisuian Form",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "goodra": {
+            "name": "Goodra",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "goodra_hisuian_form": {
+            "name": "Goodra Hisuian Form",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "jangmo_o": {
+            "name": "Jangmo-o",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "hakamo_o": {
+            "name": "Hakamo-o",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "kommo_o": {
+            "name": "Kommo-o",
+            "egg_groups": [
+                "dragon"
+            ]
+        },
+        "charmander": {
+            "name": "Charmander",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "charmeleon": {
+            "name": "Charmeleon",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "charizard": {
+            "name": "Charizard",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "ekans": {
+            "name": "Ekans",
+            "egg_groups": [
+                "dragon",
+                "field"
+            ]
+        },
+        "arbok": {
+            "name": "Arbok",
+            "egg_groups": [
+                "dragon",
+                "field"
+            ]
+        },
+        "horsea": {
+            "name": "Horsea",
+            "egg_groups": [
+                "dragon",
+                "water 1"
+            ]
+        },
+        "seadra": {
+            "name": "Seadra",
+            "egg_groups": [
+                "dragon",
+                "water 1"
+            ]
+        },
+        "magikarp": {
+            "name": "Magikarp",
+            "egg_groups": [
+                "dragon",
+                "water 2"
+            ]
+        },
+        "gyarados": {
+            "name": "Gyarados",
+            "egg_groups": [
+                "dragon",
+                "water 2"
+            ]
+        },
+        "dratini": {
+            "name": "Dratini",
+            "egg_groups": [
+                "dragon",
+                "water 1"
+            ]
+        },
+        "dragonair": {
+            "name": "Dragonair",
+            "egg_groups": [
+                "dragon",
+                "water 1"
+            ]
+        },
+        "dragonite": {
+            "name": "Dragonite",
+            "egg_groups": [
+                "dragon",
+                "water 1"
+            ]
+        },
+        "kingdra": {
+            "name": "Kingdra",
+            "egg_groups": [
+                "dragon",
+                "water 1"
+            ]
+        },
+        "treecko": {
+            "name": "Treecko",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "grovyle": {
+            "name": "Grovyle",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "sceptile": {
+            "name": "Sceptile",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "trapinch": {
+            "name": "Trapinch",
+            "egg_groups": [
+                "dragon",
+                "bug"
+            ]
+        },
+        "vibrava": {
+            "name": "Vibrava",
+            "egg_groups": [
+                "dragon",
+                "bug"
+            ]
+        },
+        "flygon": {
+            "name": "Flygon",
+            "egg_groups": [
+                "dragon",
+                "bug"
+            ]
+        },
+        "swablu": {
+            "name": "Swablu",
+            "egg_groups": [
+                "dragon",
+                "flying"
+            ]
+        },
+        "altaria": {
+            "name": "Altaria",
+            "egg_groups": [
+                "dragon",
+                "flying"
+            ]
+        },
+        "seviper": {
+            "name": "Seviper",
+            "egg_groups": [
+                "dragon",
+                "field"
+            ]
+        },
+        "feebas": {
+            "name": "Feebas",
+            "egg_groups": [
+                "dragon",
+                "water 1"
+            ]
+        },
+        "milotic": {
+            "name": "Milotic",
+            "egg_groups": [
+                "dragon",
+                "water 1"
+            ]
+        },
+        "gible": {
+            "name": "Gible",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "gabite": {
+            "name": "Gabite",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "garchomp": {
+            "name": "Garchomp",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "scraggy": {
+            "name": "Scraggy",
+            "egg_groups": [
+                "dragon",
+                "field"
+            ]
+        },
+        "scrafty": {
+            "name": "Scrafty",
+            "egg_groups": [
+                "dragon",
+                "field"
+            ]
+        },
+        "axew": {
+            "name": "Axew",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "fraxure": {
+            "name": "Fraxure",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "haxorus": {
+            "name": "Haxorus",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "druddigon": {
+            "name": "Druddigon",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "skrelp": {
+            "name": "Skrelp",
+            "egg_groups": [
+                "dragon",
+                "water 1"
+            ]
+        },
+        "dragalge": {
+            "name": "Dragalge",
+            "egg_groups": [
+                "dragon",
+                "water 1"
+            ]
+        },
+        "helioptile": {
+            "name": "Helioptile",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "heliolisk": {
+            "name": "Heliolisk",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "tyrunt": {
+            "name": "Tyrunt",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "tyrantrum": {
+            "name": "Tyrantrum",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "noibat": {
+            "name": "Noibat",
+            "egg_groups": [
+                "dragon",
+                "flying"
+            ]
+        },
+        "noivern": {
+            "name": "Noivern",
+            "egg_groups": [
+                "dragon",
+                "flying"
+            ]
+        },
+        "salandit": {
+            "name": "Salandit",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "salazzle": {
+            "name": "Salazzle",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "turtonator": {
+            "name": "Turtonator",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "drampa": {
+            "name": "Drampa",
+            "egg_groups": [
+                "dragon",
+                "monster"
+            ]
+        },
+        "applin": {
+            "name": "Applin",
+            "egg_groups": [
+                "dragon",
+                "grass"
+            ]
+        },
+        "flapple": {
+            "name": "Flapple",
+            "egg_groups": [
+                "dragon",
+                "grass"
+            ]
+        },
+        "appletun": {
+            "name": "Appletun",
+            "egg_groups": [
+                "dragon",
+                "grass"
+            ]
+        },
+        "silicobra": {
+            "name": "Silicobra",
+            "egg_groups": [
+                "dragon",
+                "field"
+            ]
+        },
+        "sandaconda": {
+            "name": "Sandaconda",
+            "egg_groups": [
+                "dragon",
+                "field"
+            ]
+        },
+        "duraludon": {
+            "name": "Duraludon",
+            "egg_groups": [
+                "dragon",
+                "mineral"
+            ]
+        },
+        "dreepy": {
+            "name": "Dreepy",
+            "egg_groups": [
+                "dragon",
+                "amorphous"
+            ]
+        },
+        "drakloak": {
+            "name": "Drakloak",
+            "egg_groups": [
+                "dragon",
+                "amorphous"
+            ]
+        },
+        "dragapult": {
+            "name": "Dragapult",
+            "egg_groups": [
+                "dragon",
+                "amorphous"
+            ]
+        },
+        "frigibax": {
+            "name": "Frigibax",
+            "egg_groups": [
+                "dragon",
+                "mineral"
+            ]
+        },
+        "arctibax": {
+            "name": "Arctibax",
+            "egg_groups": [
+                "dragon",
+                "mineral"
+            ]
+        },
+        "baxcalibur": {
+            "name": "Baxcalibur",
+            "egg_groups": [
+                "dragon",
+                "mineral"
+            ]
+        }
+    },
+    "no_eggs_discovered": {
+        "pikachu_all_cosplay_pikachu_forms": {
+            "name": "Pikachu All Cosplay Pikachu forms",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "pikachu_all_pikachu_in_a_cap_forms": {
+            "name": "Pikachu All Pikachu in a cap forms",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "nidorina": {
+            "name": "Nidorina",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "nidoqueen": {
+            "name": "Nidoqueen",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "articuno": {
+            "name": "Articuno",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "articuno_galarian_form": {
+            "name": "Articuno Galarian Form",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "zapdos": {
+            "name": "Zapdos",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "zapdos_galarian_form": {
+            "name": "Zapdos Galarian Form",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "moltres": {
+            "name": "Moltres",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "moltres_galarian_form": {
+            "name": "Moltres Galarian Form",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "mewtwo": {
+            "name": "Mewtwo",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "mew": {
+            "name": "Mew",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "pichu": {
+            "name": "Pichu",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "cleffa": {
+            "name": "Cleffa",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "igglybuff": {
+            "name": "Igglybuff",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "togepi": {
+            "name": "Togepi",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "unown": {
+            "name": "Unown",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "tyrogue": {
+            "name": "Tyrogue",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "smoochum": {
+            "name": "Smoochum",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "elekid": {
+            "name": "Elekid",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "magby": {
+            "name": "Magby",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "raikou": {
+            "name": "Raikou",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "entei": {
+            "name": "Entei",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "suicune": {
+            "name": "Suicune",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "lugia": {
+            "name": "Lugia",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "ho_oh": {
+            "name": "Ho-Oh",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "celebi": {
+            "name": "Celebi",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "azurill": {
+            "name": "Azurill",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "wynaut": {
+            "name": "Wynaut",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "regirock": {
+            "name": "Regirock",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "regice": {
+            "name": "Regice",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "registeel": {
+            "name": "Registeel",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "latias": {
+            "name": "Latias",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "latios": {
+            "name": "Latios",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "kyogre": {
+            "name": "Kyogre",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "groudon": {
+            "name": "Groudon",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "rayquaza": {
+            "name": "Rayquaza",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "jirachi": {
+            "name": "Jirachi",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "deoxys": {
+            "name": "Deoxys",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "deoxys_attack_forme": {
+            "name": "Deoxys Attack Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "deoxys_defense_forme": {
+            "name": "Deoxys Defense Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "deoxys_speed_forme": {
+            "name": "Deoxys Speed Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "budew": {
+            "name": "Budew",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "chingling": {
+            "name": "Chingling",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "bonsly": {
+            "name": "Bonsly",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "mime_jr.": {
+            "name": "Mime Jr.",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "happiny": {
+            "name": "Happiny",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "munchlax": {
+            "name": "Munchlax",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "riolu": {
+            "name": "Riolu",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "mantyke": {
+            "name": "Mantyke",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "uxie": {
+            "name": "Uxie",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "mesprit": {
+            "name": "Mesprit",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "azelf": {
+            "name": "Azelf",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "dialga": {
+            "name": "Dialga",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "dialga_origin_forme": {
+            "name": "Dialga Origin Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "palkia": {
+            "name": "Palkia",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "palkia_origin_forme": {
+            "name": "Palkia Origin Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "heatran": {
+            "name": "Heatran",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "regigigas": {
+            "name": "Regigigas",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "giratina_altered_forme": {
+            "name": "Giratina Altered Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "giratina_origin_forme": {
+            "name": "Giratina Origin Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "cresselia": {
+            "name": "Cresselia",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "darkrai": {
+            "name": "Darkrai",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "shaymin_land_forme": {
+            "name": "Shaymin Land Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "shaymin_sky_forme": {
+            "name": "Shaymin Sky Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "arceus": {
+            "name": "Arceus",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "victini": {
+            "name": "Victini",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "cobalion": {
+            "name": "Cobalion",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "terrakion": {
+            "name": "Terrakion",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "virizion": {
+            "name": "Virizion",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "tornadus_incarnate_forme": {
+            "name": "Tornadus Incarnate Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "tornadus_therian_forme": {
+            "name": "Tornadus Therian Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "thundurus_incarnate_forme": {
+            "name": "Thundurus Incarnate Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "thundurus_therian_forme": {
+            "name": "Thundurus Therian Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "reshiram": {
+            "name": "Reshiram",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "zekrom": {
+            "name": "Zekrom",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "landorus_incarnate_forme": {
+            "name": "Landorus Incarnate Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "landorus_therian_forme": {
+            "name": "Landorus Therian Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "kyurem": {
+            "name": "Kyurem",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "kyurem_black_kyurem": {
+            "name": "Kyurem Black Kyurem",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "kyurem_white_kyurem": {
+            "name": "Kyurem White Kyurem",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "keldeo_ordinary_form": {
+            "name": "Keldeo Ordinary Form",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "keldeo_resolute_form": {
+            "name": "Keldeo Resolute Form",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "meloetta_aria_forme": {
+            "name": "Meloetta Aria Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "genesect": {
+            "name": "Genesect",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "greninja_battle_bond_greninja": {
+            "name": "Greninja Battle Bond Greninja",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "xerneas": {
+            "name": "Xerneas",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "yveltal": {
+            "name": "Yveltal",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "zygarde": {
+            "name": "Zygarde",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "diancie": {
+            "name": "Diancie",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "hoopa_hoopa_confined": {
+            "name": "Hoopa Hoopa Confined",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "hoopa_hoopa_unbound": {
+            "name": "Hoopa Hoopa Unbound",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "volcanion": {
+            "name": "Volcanion",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "type:_null": {
+            "name": "Type: Null",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "silvally": {
+            "name": "Silvally",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "tapu_koko": {
+            "name": "Tapu Koko",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "tapu_lele": {
+            "name": "Tapu Lele",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "tapu_bulu": {
+            "name": "Tapu Bulu",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "tapu_fini": {
+            "name": "Tapu Fini",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "cosmog": {
+            "name": "Cosmog",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "cosmoem": {
+            "name": "Cosmoem",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "solgaleo": {
+            "name": "Solgaleo",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "lunala": {
+            "name": "Lunala",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "nihilego": {
+            "name": "Nihilego",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "buzzwole": {
+            "name": "Buzzwole",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "pheromosa": {
+            "name": "Pheromosa",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "xurkitree": {
+            "name": "Xurkitree",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "celesteela": {
+            "name": "Celesteela",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "kartana": {
+            "name": "Kartana",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "guzzlord": {
+            "name": "Guzzlord",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "necrozma": {
+            "name": "Necrozma",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "necrozma_dusk_mane_necrozma": {
+            "name": "Necrozma Dusk Mane Necrozma",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "necrozma_dawn_wings_necrozma": {
+            "name": "Necrozma Dawn Wings Necrozma",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "magearna": {
+            "name": "Magearna",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "marshadow": {
+            "name": "Marshadow",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "poipole": {
+            "name": "Poipole",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "naganadel": {
+            "name": "Naganadel",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "stakataka": {
+            "name": "Stakataka",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "blacephalon": {
+            "name": "Blacephalon",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "zeraora": {
+            "name": "Zeraora",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "meltan": {
+            "name": "Meltan",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "melmetal": {
+            "name": "Melmetal",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "toxel": {
+            "name": "Toxel",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "dracozolt": {
+            "name": "Dracozolt",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "arctozolt": {
+            "name": "Arctozolt",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "dracovish": {
+            "name": "Dracovish",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "arctovish": {
+            "name": "Arctovish",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "zacian_hero_of_many_battles": {
+            "name": "Zacian Hero of Many Battles",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "zamazenta_hero_of_many_battles": {
+            "name": "Zamazenta Hero of Many Battles",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "eternatus": {
+            "name": "Eternatus",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "kubfu": {
+            "name": "Kubfu",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "urshifu_single_strike_style": {
+            "name": "Urshifu Single Strike Style",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "urshifu_rapid_strike_style": {
+            "name": "Urshifu Rapid Strike Style",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "zarude": {
+            "name": "Zarude",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "regieleki": {
+            "name": "Regieleki",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "regidrago": {
+            "name": "Regidrago",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "glastrier": {
+            "name": "Glastrier",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "spectrier": {
+            "name": "Spectrier",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "calyrex": {
+            "name": "Calyrex",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "calyrex_ice_rider": {
+            "name": "Calyrex Ice Rider",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "calyrex_shadow_rider": {
+            "name": "Calyrex Shadow Rider",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "enamorus_incarnate_forme": {
+            "name": "Enamorus Incarnate Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "enamorus_therian_forme": {
+            "name": "Enamorus Therian Forme",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "gimmighoul": {
+            "name": "Gimmighoul",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "gimmighoul_roaming_form": {
+            "name": "Gimmighoul Roaming Form",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "gholdengo": {
+            "name": "Gholdengo",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "great_tusk": {
+            "name": "Great Tusk",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "brute_bonnet": {
+            "name": "Brute Bonnet",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "sandy_shocks": {
+            "name": "Sandy Shocks",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "scream_tail": {
+            "name": "Scream Tail",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "flutter_mane": {
+            "name": "Flutter Mane",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "slither_wing": {
+            "name": "Slither Wing",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "roaring_moon": {
+            "name": "Roaring Moon",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "iron_treads": {
+            "name": "Iron Treads",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "iron_moth": {
+            "name": "Iron Moth",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "iron_hands": {
+            "name": "Iron Hands",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "iron_jugulis": {
+            "name": "Iron Jugulis",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "iron_thorns": {
+            "name": "Iron Thorns",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "iron_bundle": {
+            "name": "Iron Bundle",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "iron_valiant": {
+            "name": "Iron Valiant",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "ting_lu": {
+            "name": "Ting-Lu",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "chien_pao": {
+            "name": "Chien-Pao",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "wo_chien": {
+            "name": "Wo-Chien",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "chi_yu": {
+            "name": "Chi-Yu",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "koraidon": {
+            "name": "Koraidon",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        },
+        "miraidon": {
+            "name": "Miraidon",
+            "egg_groups": [
+                "no_eggs_discovered"
+            ]
+        }
     }
 }
