@@ -1,20 +1,33 @@
-import { useContext } from 'react';
+import { Text, Title } from '@mantine/core';
+import { useState } from 'react';
 
+import { Link } from '~/components/Link';
 import { Layout } from '~/components/meta/Layout';
-import { Body } from '~/components/typography/Body';
-import { BreakpointsContext } from '~/logic/contexts/breakpointsContext';
+import { PkmnForm } from '~/components/PkmnForm';
+
+type BreedingChain = unknown[];
 
 const Home: React.FC = () => {
-  const breakpoints = useContext(BreakpointsContext);
+  const [chain, setChain] = useState<BreedingChain | null>(null);
+
   return (
     <Layout>
-      <Body>
-        Welcome to Next JS! Edit src/pages/index.tsx to get started...
-      </Body>
-      <Body bold>
-        The current breakpoint is &apos;{breakpoints[breakpoints.length - 1]}
-        &apos;
-      </Body>
+      <Title order={1}>Pokémon Pokéball Breeding</Title>
+      <Text>
+        Choose a starting pokémon in a pokéball you want to pass to an ending
+        pokémon, and we&apos;ll show you the breeding chain to get there.
+      </Text>
+      <Text>
+        See{' '}
+        <Link
+          href="https://www.reddit.com/r/pokemon/comments/5gvlat/found_this_pokeball_inheritance_chart_online/"
+          isInternal={false}
+        >
+          pokéball inheritance
+        </Link>{' '}
+        for more info.
+      </Text>
+      <PkmnForm />
     </Layout>
   );
 };

@@ -35,6 +35,7 @@
     "indent": "off",
     "comma-dangle": "off",
     "no-shadow": "off",
+    "no-underscore-dangle": "off",
 
     // import
     "import/no-named-as-default": "off",
@@ -74,6 +75,7 @@
     "react/self-closing-comp": "warn",
     "react/no-access-state-in-setstate": "error",
     "react/jsx-one-expression-per-line": "off",
+    "react/jsx-props-no-spreading": "off",
 
     // Typescript
     "@typescript-eslint/explicit-module-boundary-types": "off",
