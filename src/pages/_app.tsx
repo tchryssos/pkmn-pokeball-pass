@@ -4,10 +4,9 @@ import type { AppProps /* , AppContext */ } from 'next/app';
 import { useEffect, useState } from 'react';
 
 import { FlexBox } from '~/components/box/FlexBox';
-import { themes } from '~/constants/theme';
+import { BaseTheme } from '~/constants/theme';
 import { BreakpointsContext } from '~/logic/contexts/breakpointsContext';
-import { ColorMode } from '~/typings/colorMode';
-import { BreakpointSize } from '~/typings/theme';
+import { BreakpointSize } from '~/typings/breakpoints';
 
 const marPadZero = css`
   margin: 0;
@@ -29,7 +28,7 @@ const createGlobalStyles = (theme: Theme) => css`
     ${baseStyle};
     position: relative;
     box-sizing: border-box;
-    font-family: ${theme.fontFamily.normal};
+    font-family: ${theme.fontFamily.base};
   }
   #app,
   #__next {
@@ -65,8 +64,7 @@ const Page: React.FC<AppProps> = ({ Component, pageProps }) => {
   const [windowBreakpoints, setWindowBreakpoints] = useState<BreakpointSize[]>([
     'xxs',
   ]);
-  const [colorMode] = useState<ColorMode>('standard');
-  const theme = themes[colorMode];
+  const theme = BaseTheme;
 
   useEffect(() => {
     Object.keys(theme.breakpointValues).forEach((key, i, arr) => {
