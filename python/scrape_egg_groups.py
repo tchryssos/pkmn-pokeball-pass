@@ -1,10 +1,11 @@
 """Methods for scraping Bulbapedia for pokémon egg group data"""
 
 import re
+import json
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-from inflection import underscore
+from inflection import underscore, transliterate
 
 def scrape_egg_groups():
     """Scrapes the Egg_Group Bulbapedia page to get links to all egg group pages"""
@@ -30,12 +31,16 @@ def get_data_frame_by_id(soup, id):
     table = soup.find(id=id).find_parent('h3').find_next_sibling('table').find('table')
     return pd.read_html(str(table))[0]
 
+def sanitize_pkmn_string(s):
+    """Removes the '♀' and '♂' characters from a pokemon string"""
+    return s.replace('♀', '_f').replace('♂', '_m').replace(' ', '_')
+
 
 def add_pkmn_to_egg_group_dict(pkmn_by_egg_group_dict, data_frame, egg_group_key):
     """Adds a pokemon to the egg group dictionary"""
     egg_group_dict = pkmn_by_egg_group_dict[egg_group_key]
     for _, row in data_frame.iterrows():
-        pkmn_name_key = underscore(row['Pokémon'])
+        pkmn_name_key = sanitize_pkmn_string(underscore(row['Pokémon']))
         egg_group_list = [egg_group_key]
         # If the pokemon has multiple egg groups, add the other one to the list
         try:
@@ -47,7 +52,7 @@ def add_pkmn_to_egg_group_dict(pkmn_by_egg_group_dict, data_frame, egg_group_key
         'egg_groups': egg_group_list}
 
 
-def scrape_pokemon_from_egg_groups():
+def generate_egg_group_json_from_bulbapedia():
     """Scrapes a list of pokemon from each egg group"""
 
     egg_group_urls = scrape_egg_groups()
@@ -68,10 +73,7 @@ def scrape_pokemon_from_egg_groups():
     multiple_df = get_data_frame_by_id(soup, 'In_this_and_another_Egg_Group')
     add_pkmn_to_egg_group_dict(pkmn_by_egg_group, multiple_df, egg_group_key)
 
-    print(pkmn_by_egg_group)
+    with(open('egg_groups.json', 'w', encoding="utf-8")) as egg_groups_file:
+        json.dump(pkmn_by_egg_group, egg_groups_file, indent=4)
 
-    # for egg_group_url in egg_group_urls:
-    #     page = requests.get(egg_group_url, timeout=5)
-    #     soup = BeautifulSoup(page.content, 'html.parser')
-
-scrape_pokemon_from_egg_groups()
+generate_egg_group_json_from_bulbapedia()

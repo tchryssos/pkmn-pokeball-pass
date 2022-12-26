@@ -1,0 +1,587 @@
+{
+    "monster": {
+        "cubone": {
+            "name": "Cubone",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "marowak": {
+            "name": "Marowak",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "marowak_alolan_form": {
+            "name": "Marowak Alolan Form",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "lickitung": {
+            "name": "Lickitung",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "kangaskhan": {
+            "name": "Kangaskhan",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "snorlax": {
+            "name": "Snorlax",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "larvitar": {
+            "name": "Larvitar",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "pupitar": {
+            "name": "Pupitar",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "tyranitar": {
+            "name": "Tyranitar",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "aron": {
+            "name": "Aron",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "lairon": {
+            "name": "Lairon",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "aggron": {
+            "name": "Aggron",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "cranidos": {
+            "name": "Cranidos",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "rampardos": {
+            "name": "Rampardos",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "shieldon": {
+            "name": "Shieldon",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "bastiodon": {
+            "name": "Bastiodon",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "lickilicky": {
+            "name": "Lickilicky",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "amaura": {
+            "name": "Amaura",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "aurorus": {
+            "name": "Aurorus",
+            "egg_groups": [
+                "monster"
+            ]
+        },
+        "bulbasaur": {
+            "name": "Bulbasaur",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "ivysaur": {
+            "name": "Ivysaur",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "venusaur": {
+            "name": "Venusaur",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "charmander": {
+            "name": "Charmander",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "charmeleon": {
+            "name": "Charmeleon",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "charizard": {
+            "name": "Charizard",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "squirtle": {
+            "name": "Squirtle",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "wartortle": {
+            "name": "Wartortle",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "blastoise": {
+            "name": "Blastoise",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "nidoran_f": {
+            "name": "Nidoran\u2640",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "nidoran_m": {
+            "name": "Nidoran\u2642",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "nidorino": {
+            "name": "Nidorino",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "nidoking": {
+            "name": "Nidoking",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "slowpoke": {
+            "name": "Slowpoke",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "slowpoke_galarian_form": {
+            "name": "Slowpoke Galarian Form",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "slowbro": {
+            "name": "Slowbro",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "slowbro_galarian_form": {
+            "name": "Slowbro Galarian Form",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "rhyhorn": {
+            "name": "Rhyhorn",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "rhydon": {
+            "name": "Rhydon",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "lapras": {
+            "name": "Lapras",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "chikorita": {
+            "name": "Chikorita",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "bayleef": {
+            "name": "Bayleef",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "meganium": {
+            "name": "Meganium",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "totodile": {
+            "name": "Totodile",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "croconaw": {
+            "name": "Croconaw",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "feraligatr": {
+            "name": "Feraligatr",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "mareep": {
+            "name": "Mareep",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "flaaffy": {
+            "name": "Flaaffy",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "ampharos": {
+            "name": "Ampharos",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "slowking": {
+            "name": "Slowking",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "slowking_galarian_form": {
+            "name": "Slowking Galarian Form",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "treecko": {
+            "name": "Treecko",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "grovyle": {
+            "name": "Grovyle",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "sceptile": {
+            "name": "Sceptile",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "mudkip": {
+            "name": "Mudkip",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "marshtomp": {
+            "name": "Marshtomp",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "swampert": {
+            "name": "Swampert",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "whismur": {
+            "name": "Whismur",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "loudred": {
+            "name": "Loudred",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "exploud": {
+            "name": "Exploud",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "tropius": {
+            "name": "Tropius",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "turtwig": {
+            "name": "Turtwig",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "grotle": {
+            "name": "Grotle",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "torterra": {
+            "name": "Torterra",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "gible": {
+            "name": "Gible",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "gabite": {
+            "name": "Gabite",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "garchomp": {
+            "name": "Garchomp",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "snover": {
+            "name": "Snover",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "abomasnow": {
+            "name": "Abomasnow",
+            "egg_groups": [
+                "monster",
+                "grass"
+            ]
+        },
+        "rhyperior": {
+            "name": "Rhyperior",
+            "egg_groups": [
+                "monster",
+                "field"
+            ]
+        },
+        "axew": {
+            "name": "Axew",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "fraxure": {
+            "name": "Fraxure",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "haxorus": {
+            "name": "Haxorus",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "druddigon": {
+            "name": "Druddigon",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "helioptile": {
+            "name": "Helioptile",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "heliolisk": {
+            "name": "Heliolisk",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "tyrunt": {
+            "name": "Tyrunt",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "tyrantrum": {
+            "name": "Tyrantrum",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "bergmite": {
+            "name": "Bergmite",
+            "egg_groups": [
+                "monster",
+                "mineral"
+            ]
+        },
+        "avalugg": {
+            "name": "Avalugg",
+            "egg_groups": [
+                "monster",
+                "mineral"
+            ]
+        },
+        "avalugg_hisuian_form": {
+            "name": "Avalugg Hisuian Form",
+            "egg_groups": [
+                "monster",
+                "mineral"
+            ]
+        },
+        "salandit": {
+            "name": "Salandit",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "salazzle": {
+            "name": "Salazzle",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "turtonator": {
+            "name": "Turtonator",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "drampa": {
+            "name": "Drampa",
+            "egg_groups": [
+                "monster",
+                "dragon"
+            ]
+        },
+        "chewtle": {
+            "name": "Chewtle",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        },
+        "drednaw": {
+            "name": "Drednaw",
+            "egg_groups": [
+                "monster",
+                "water 1"
+            ]
+        }
+    }
+}
