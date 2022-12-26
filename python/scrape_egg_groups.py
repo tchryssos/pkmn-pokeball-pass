@@ -7,6 +7,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from inflection import underscore, transliterate
 
+
 def scrape_egg_groups():
     """Scrapes the Egg_Group Bulbapedia page to get links to all egg group pages"""
     base_url = 'https://bulbapedia.bulbagarden.net'
@@ -18,7 +19,7 @@ def scrape_egg_groups():
 
     # Find the list of links to other egg group pages on Bulbapedia
     egg_links = egg_groups_heading.find_next_sibling('ol')\
-    .find_all('a', href=re.compile(r"\(Egg_Group\)$"))
+        .find_all('a', href=re.compile(r"\(Egg_Group\)$"))
 
     egg_links_href_list = []
     for egg_link in egg_links:
@@ -26,13 +27,16 @@ def scrape_egg_groups():
 
     return egg_links_href_list
 
+
 def get_data_frame_by_id(soup, html_id):
     """Gets a data frame from a table by id"""
     try:
-        table = soup.find(id=html_id).find_parent('h3').find_next_sibling('table').find('table')
+        table = soup.find(id=html_id).find_parent(
+            'h3').find_next_sibling('table').find('table')
         return pd.read_html(str(table))[0]
     except AttributeError:
         return None
+
 
 def sanitize_pkmn_string(s):
     """Removes special characters from a pokemon name"""
@@ -51,8 +55,8 @@ def add_pkmn_to_egg_group_dict(pkmn_by_egg_group_dict, data_frame, egg_group_key
         except KeyError:
             pass
         egg_group_dict[pkmn_name_key] =\
-        {'name': row['Pokémon'],\
-        'egg_groups': egg_group_list}
+            {'name': row['Pokémon'],
+             'egg_groups': egg_group_list}
 
 
 def generate_egg_group_json_from_bulbapedia():
@@ -63,7 +67,8 @@ def generate_egg_group_json_from_bulbapedia():
     pkmn_by_egg_group = {}
 
     for egg_group_url in egg_group_urls:
-        egg_group_name = re.search(r'wiki\/(.*)_\(Egg_Group\)$', egg_group_url).group(1)
+        egg_group_name = re.search(
+            r'wiki\/(.*)_\(Egg_Group\)$', egg_group_url).group(1)
         egg_group_key = sanitize_pkmn_string(underscore(egg_group_name))
         pkmn_by_egg_group[egg_group_key] = {}
 
@@ -72,13 +77,17 @@ def generate_egg_group_json_from_bulbapedia():
 
         only_this_df = get_data_frame_by_id(soup, 'Only_in_this_Egg_Group')
         if only_this_df is not None:
-            add_pkmn_to_egg_group_dict(pkmn_by_egg_group, only_this_df, egg_group_key)
+            add_pkmn_to_egg_group_dict(
+                pkmn_by_egg_group, only_this_df, egg_group_key)
 
-        multiple_df = get_data_frame_by_id(soup, 'In_this_and_another_Egg_Group')
+        multiple_df = get_data_frame_by_id(
+            soup, 'In_this_and_another_Egg_Group')
         if multiple_df is not None:
-            add_pkmn_to_egg_group_dict(pkmn_by_egg_group, multiple_df, egg_group_key)
+            add_pkmn_to_egg_group_dict(
+                pkmn_by_egg_group, multiple_df, egg_group_key)
 
-        with(open('egg_groups.json', 'w', encoding="utf-16")) as egg_groups_file:
+        with (open('egg_groups.json', 'w', encoding="utf-16")) as egg_groups_file:
             json.dump(pkmn_by_egg_group, egg_groups_file, indent=4)
+
 
 generate_egg_group_json_from_bulbapedia()
