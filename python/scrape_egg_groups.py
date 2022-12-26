@@ -2,6 +2,7 @@
 
 import re
 import requests
+import pandas as pd
 from bs4 import BeautifulSoup
 
 def scrape_egg_groups():
@@ -14,7 +15,8 @@ def scrape_egg_groups():
     egg_groups_heading = soup.find(id="Egg_Groups").find_parent('h2')
 
     # Find the list of links to other egg group pages on Bulbapedia
-    egg_links = egg_groups_heading.find_next_sibling('ol').find_all('a', href=re.compile(r"\(Egg_Group\)$"))
+    egg_links = egg_groups_heading.find_next_sibling('ol')\
+    .find_all('a', href=re.compile(r"\(Egg_Group\)$"))
 
     egg_links_href_list = []
     for egg_link in egg_links:
@@ -22,20 +24,19 @@ def scrape_egg_groups():
 
     return egg_links_href_list
 
-scrape_egg_groups()
+def scrape_pokemon_from_egg_groups():
+    """Scrapes a list of pokemon from each egg group"""
 
-# def scrapePokemonFromEggGroups():
-#     egg_links_href_list = scrape_egg_groups()
-#     p = []
+    egg_group_urls = scrape_egg_groups()
 
-#     for eggLink in egg_links_href_list:
-#         page = requests.get(eggLink)
-#         soup = BeautifulSoup(page.content, 'html.parser')
+    page = requests.get(egg_group_urls[0], timeout=5)
+    soup = BeautifulSoup(page.content, 'html.parser')
+    only_this_egg_group = soup.find(id="Only_in_this_Egg_Group").find_parent('h3').find_next_sibling('table').find('table')
+    df = pd.read_html(str(only_this_egg_group))
+    print(df.head())
 
-#         # Find the list of links to pokemon on Bulbapedia
-#         pokemonLinks = soup.find(id="Pokémon").find_parent('h2').find_next_sibling('ul').find_all('a', href=re.compile('\(Pokémon\)$'))
+    # for egg_group_url in egg_group_urls:
+    #     page = requests.get(egg_group_url, timeout=5)
+    #     soup = BeautifulSoup(page.content, 'html.parser')
 
-#         for pokemonLink in pokemonLinks:
-#             pokemonList.append(pokemonLink.text)
-
-#     return pokemonList
+scrape_pokemon_from_egg_groups()
