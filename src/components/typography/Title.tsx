@@ -7,7 +7,7 @@ import { TypographyProps } from './types';
 type TitleProps = Pick<MarginProps, 'mb'> & TypographyProps;
 
 export const Title = styled.h1<TitleProps>`
-  ${({ theme, variant = 'normal', ...rest }) =>
+  ${({ theme, variant = 'base', ...rest }) =>
     createTextSharedStyles(theme, { ...rest, variant })}
-  font-size: ${({ theme }) => theme.fontSize.title};
+  font-size: ${({ theme }) => theme.fontSize[40]};
 `;

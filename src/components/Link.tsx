@@ -16,7 +16,7 @@ const StyledLink = styled.a<StyledProps>`
   display: inline-block;
   text-decoration: ${({ underline }) => (underline ? 'underline' : 'none')};
   :hover {
-    filter: brightness(${({ theme }) => theme.filters.brightnessMod});
+    color: ${({ theme }) => theme.colors.textAccent};
   }
 `;
 

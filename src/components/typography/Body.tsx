@@ -7,7 +7,7 @@ import { TypographyProps } from './types';
 type BodyProps = Pick<MarginProps, 'mb'> & TypographyProps;
 
 export const Body = styled.p<BodyProps>`
-  ${({ theme, variant = 'normal', ...rest }) =>
+  ${({ theme, variant = 'base', ...rest }) =>
     createTextSharedStyles(theme, { ...rest, variant })}
-  font-size: ${({ theme }) => theme.fontSize.body};
+  font-size: ${({ theme }) => theme.fontSize[16]};
 `;

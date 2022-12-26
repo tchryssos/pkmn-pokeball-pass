@@ -10,7 +10,7 @@ export const createTextSharedStyles = (
   fontProps: Partial<TypographyProps> & Pick<MarginProps, 'mb'>
 ) =>
   css({
-    fontFamily: theme.fontFamily[fontProps.variant || 'normal'],
+    fontFamily: theme.fontFamily[fontProps.variant || 'base'],
     marginBottom: theme.spacing[fontProps.mb || 0],
     fontWeight: fontProps.bold
       ? theme.fontWeight.bold
