@@ -1,11 +1,11 @@
-"""Methods for scraping Bulbapedia for pokémon egg group data"""
+"""Methods for scraping Bulbapedia for pokémon egg group data and generating a JSON file"""
 
 import re
 import json
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-from inflection import underscore
+from inflection import underscore, transliterate
 
 def scrape_egg_groups():
     """Scrapes the Egg_Group Bulbapedia page to get links to all egg group pages"""
@@ -35,8 +35,8 @@ def get_data_frame_by_id(soup, html_id):
         return None
 
 def sanitize_pkmn_string(s):
-    """Removes the '♀' and '♂' characters from a pokemon string"""
-    return s.replace('♀', '_f').replace('♂', '_m').replace(' ', '_')
+    """Removes special characters from a pokemon name"""
+    return transliterate(s.replace('♀', '_f').replace('♂', '_m').replace(' ', '_'))
 
 
 def add_pkmn_to_egg_group_dict(pkmn_by_egg_group_dict, data_frame, egg_group_key):
@@ -78,7 +78,7 @@ def generate_egg_group_json_from_bulbapedia():
         if multiple_df is not None:
             add_pkmn_to_egg_group_dict(pkmn_by_egg_group, multiple_df, egg_group_key)
 
-        with(open('egg_groups.json', 'w', encoding="utf-8")) as egg_groups_file:
+        with(open('egg_groups.json', 'w', encoding="utf-16")) as egg_groups_file:
             json.dump(pkmn_by_egg_group, egg_groups_file, indent=4)
 
 generate_egg_group_json_from_bulbapedia()
