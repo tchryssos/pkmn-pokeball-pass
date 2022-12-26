@@ -25,7 +25,7 @@ def scrape_egg_groups():
 
     return egg_links_href_list
 
-def get_data_frame_by_id(id):
+def get_data_frame_by_id(soup, id):
     """Gets a data frame from a table by id"""
     table = soup.find(id=id).find_parent('h3').find_next_sibling('table').find('table')
     return pd.read_html(str(table))[0]
@@ -36,9 +36,15 @@ def add_pkmn_to_egg_group_dict(pkmn_by_egg_group_dict, data_frame, egg_group_key
     egg_group_dict = pkmn_by_egg_group_dict[egg_group_key]
     for _, row in data_frame.iterrows():
         pkmn_name_key = underscore(row['Pokémon'])
+        egg_group_list = [egg_group_key]
+        # If the pokemon has multiple egg groups, add the other one to the list
+        try:
+            egg_group_list.append(underscore(row['Other']))
+        except KeyError:
+            pass
         egg_group_dict[pkmn_name_key] =\
         {'name': row['Pokémon'],\
-        'egg_groups': [egg_group_key, underscore(row['Other'])]}
+        'egg_groups': egg_group_list}
 
 
 def scrape_pokemon_from_egg_groups():
@@ -56,15 +62,11 @@ def scrape_pokemon_from_egg_groups():
     page = requests.get(egg_group_urls[0], timeout=5)
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    # START - ONLY THIS EGG GROUP - START
-    only_this_df = get_data_frame_by_id('Only_in_this_Egg_Group')
+    only_this_df = get_data_frame_by_id(soup, 'Only_in_this_Egg_Group')
     add_pkmn_to_egg_group_dict(pkmn_by_egg_group, only_this_df, egg_group_key)
-    # END - ONLY THIS EGG GROUP - END
 
-    # START - MULTIPLE EGG GROUPS - START
-    multiple_df = get_data_frame_by_id('In_this_and_another_Egg_Group')
+    multiple_df = get_data_frame_by_id(soup, 'In_this_and_another_Egg_Group')
     add_pkmn_to_egg_group_dict(pkmn_by_egg_group, multiple_df, egg_group_key)
-    # END - MULTIPLE EGG GROUPS - END
 
     print(pkmn_by_egg_group)
 
